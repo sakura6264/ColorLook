@@ -1,0 +1,4552 @@
+[
+    {
+        "value": "#fffafa",
+        "name": "Snow",
+        "read": "",
+        "rgb": [
+            255,
+            250,
+            250
+        ]
+    },
+    {
+        "value": "#f8f8ff",
+        "name": "GhostWhite",
+        "read": "",
+        "rgb": [
+            248,
+            248,
+            255
+        ]
+    },
+    {
+        "value": "#f5f5f5",
+        "name": "WhiteSmoke",
+        "read": "",
+        "rgb": [
+            245,
+            245,
+            245
+        ]
+    },
+    {
+        "value": "#dcdcdc",
+        "name": "Gainsboro",
+        "read": "",
+        "rgb": [
+            220,
+            220,
+            220
+        ]
+    },
+    {
+        "value": "#fffaf0",
+        "name": "FloralWhite",
+        "read": "",
+        "rgb": [
+            255,
+            250,
+            240
+        ]
+    },
+    {
+        "value": "#fdf5e6",
+        "name": "OldLace",
+        "read": "",
+        "rgb": [
+            253,
+            245,
+            230
+        ]
+    },
+    {
+        "value": "#faf0e6",
+        "name": "Linen",
+        "read": "",
+        "rgb": [
+            250,
+            240,
+            230
+        ]
+    },
+    {
+        "value": "#faebd7",
+        "name": "AntiqueWhite",
+        "read": "",
+        "rgb": [
+            250,
+            235,
+            215
+        ]
+    },
+    {
+        "value": "#ffefd5",
+        "name": "PapayaWhip",
+        "read": "",
+        "rgb": [
+            255,
+            239,
+            213
+        ]
+    },
+    {
+        "value": "#ffebcd",
+        "name": "BlanchedAlmond",
+        "read": "",
+        "rgb": [
+            255,
+            235,
+            205
+        ]
+    },
+    {
+        "value": "#ffe4c4",
+        "name": "Bisque",
+        "read": "",
+        "rgb": [
+            255,
+            228,
+            196
+        ]
+    },
+    {
+        "value": "#ffdab9",
+        "name": "PeachPuff",
+        "read": "",
+        "rgb": [
+            255,
+            218,
+            185
+        ]
+    },
+    {
+        "value": "#ffdead",
+        "name": "NavajoWhite",
+        "read": "",
+        "rgb": [
+            255,
+            222,
+            173
+        ]
+    },
+    {
+        "value": "#ffe4b5",
+        "name": "Moccasin",
+        "read": "",
+        "rgb": [
+            255,
+            228,
+            181
+        ]
+    },
+    {
+        "value": "#fff8dc",
+        "name": "Cornsilk",
+        "read": "",
+        "rgb": [
+            255,
+            248,
+            220
+        ]
+    },
+    {
+        "value": "#fffff0",
+        "name": "Ivory",
+        "read": "",
+        "rgb": [
+            255,
+            255,
+            240
+        ]
+    },
+    {
+        "value": "#fffacd",
+        "name": "LemonChiffon",
+        "read": "",
+        "rgb": [
+            255,
+            250,
+            205
+        ]
+    },
+    {
+        "value": "#fff5ee",
+        "name": "Seashell",
+        "read": "",
+        "rgb": [
+            255,
+            245,
+            238
+        ]
+    },
+    {
+        "value": "#f0fff0",
+        "name": "Honeydew",
+        "read": "",
+        "rgb": [
+            240,
+            255,
+            240
+        ]
+    },
+    {
+        "value": "#f5fffa",
+        "name": "MintCream",
+        "read": "",
+        "rgb": [
+            245,
+            255,
+            250
+        ]
+    },
+    {
+        "value": "#f0ffff",
+        "name": "Azure",
+        "read": "",
+        "rgb": [
+            240,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#f0f8ff",
+        "name": "AliceBlue",
+        "read": "",
+        "rgb": [
+            240,
+            248,
+            255
+        ]
+    },
+    {
+        "value": "#e6e6fa",
+        "name": "lavender",
+        "read": "",
+        "rgb": [
+            230,
+            230,
+            250
+        ]
+    },
+    {
+        "value": "#fff0f5",
+        "name": "LavenderBlush",
+        "read": "",
+        "rgb": [
+            255,
+            240,
+            245
+        ]
+    },
+    {
+        "value": "#ffe4e1",
+        "name": "MistyRose",
+        "read": "",
+        "rgb": [
+            255,
+            228,
+            225
+        ]
+    },
+    {
+        "value": "#ffffff",
+        "name": "White",
+        "read": "",
+        "rgb": [
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#000000",
+        "name": "Black",
+        "read": "",
+        "rgb": [
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "value": "#2f4f4f",
+        "name": "DarkSlateGray",
+        "read": "",
+        "rgb": [
+            47,
+            79,
+            79
+        ]
+    },
+    {
+        "value": "#696969",
+        "name": "DimGrey",
+        "read": "",
+        "rgb": [
+            105,
+            105,
+            105
+        ]
+    },
+    {
+        "value": "#708090",
+        "name": "SlateGrey",
+        "read": "",
+        "rgb": [
+            112,
+            128,
+            144
+        ]
+    },
+    {
+        "value": "#778899",
+        "name": "LightSlateGray",
+        "read": "",
+        "rgb": [
+            119,
+            136,
+            153
+        ]
+    },
+    {
+        "value": "#bebebe",
+        "name": "Grey",
+        "read": "",
+        "rgb": [
+            190,
+            190,
+            190
+        ]
+    },
+    {
+        "value": "#d3d3d3",
+        "name": "LightGray",
+        "read": "",
+        "rgb": [
+            211,
+            211,
+            211
+        ]
+    },
+    {
+        "value": "#191970",
+        "name": "MidnightBlue",
+        "read": "",
+        "rgb": [
+            25,
+            25,
+            112
+        ]
+    },
+    {
+        "value": "#000080",
+        "name": "NavyBlue",
+        "read": "",
+        "rgb": [
+            0,
+            0,
+            128
+        ]
+    },
+    {
+        "value": "#6495ed",
+        "name": "CornflowerBlue",
+        "read": "",
+        "rgb": [
+            100,
+            149,
+            237
+        ]
+    },
+    {
+        "value": "#483d8b",
+        "name": "DarkSlateBlue",
+        "read": "",
+        "rgb": [
+            72,
+            61,
+            139
+        ]
+    },
+    {
+        "value": "#6a5acd",
+        "name": "SlateBlue",
+        "read": "",
+        "rgb": [
+            106,
+            90,
+            205
+        ]
+    },
+    {
+        "value": "#7b68ee",
+        "name": "MediumSlateBlue",
+        "read": "",
+        "rgb": [
+            123,
+            104,
+            238
+        ]
+    },
+    {
+        "value": "#8470ff",
+        "name": "LightSlateBlue",
+        "read": "",
+        "rgb": [
+            132,
+            112,
+            255
+        ]
+    },
+    {
+        "value": "#0000cd",
+        "name": "MediumBlue",
+        "read": "",
+        "rgb": [
+            0,
+            0,
+            205
+        ]
+    },
+    {
+        "value": "#4169e1",
+        "name": "RoyalBlue",
+        "read": "",
+        "rgb": [
+            65,
+            105,
+            225
+        ]
+    },
+    {
+        "value": "#0000ff",
+        "name": "Blue",
+        "read": "",
+        "rgb": [
+            0,
+            0,
+            255
+        ]
+    },
+    {
+        "value": "#1e90ff",
+        "name": "DodgerBlue",
+        "read": "",
+        "rgb": [
+            30,
+            144,
+            255
+        ]
+    },
+    {
+        "value": "#00bfff",
+        "name": "DeepSkyBlue",
+        "read": "",
+        "rgb": [
+            0,
+            191,
+            255
+        ]
+    },
+    {
+        "value": "#87ceeb",
+        "name": "SkyBlue",
+        "read": "",
+        "rgb": [
+            135,
+            206,
+            235
+        ]
+    },
+    {
+        "value": "#87cefa",
+        "name": "LightSkyBlue",
+        "read": "",
+        "rgb": [
+            135,
+            206,
+            250
+        ]
+    },
+    {
+        "value": "#4682b4",
+        "name": "SteelBlue",
+        "read": "",
+        "rgb": [
+            70,
+            130,
+            180
+        ]
+    },
+    {
+        "value": "#b0c4de",
+        "name": "LightSteelBlue",
+        "read": "",
+        "rgb": [
+            176,
+            196,
+            222
+        ]
+    },
+    {
+        "value": "#add8e6",
+        "name": "LightBlue",
+        "read": "",
+        "rgb": [
+            173,
+            216,
+            230
+        ]
+    },
+    {
+        "value": "#b0e0e6",
+        "name": "PowderBlue",
+        "read": "",
+        "rgb": [
+            176,
+            224,
+            230
+        ]
+    },
+    {
+        "value": "#afeeee",
+        "name": "PaleTurquoise",
+        "read": "",
+        "rgb": [
+            175,
+            238,
+            238
+        ]
+    },
+    {
+        "value": "#00ced1",
+        "name": "DarkTurquoise",
+        "read": "",
+        "rgb": [
+            0,
+            206,
+            209
+        ]
+    },
+    {
+        "value": "#48d1cc",
+        "name": "MediumTurquoise",
+        "read": "",
+        "rgb": [
+            72,
+            209,
+            204
+        ]
+    },
+    {
+        "value": "#40e0d0",
+        "name": "Turquoise",
+        "read": "",
+        "rgb": [
+            64,
+            224,
+            208
+        ]
+    },
+    {
+        "value": "#00ffff",
+        "name": "Cyan",
+        "read": "",
+        "rgb": [
+            0,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#e0ffff",
+        "name": "LightCyan",
+        "read": "",
+        "rgb": [
+            224,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#5f9ea0",
+        "name": "CadetBlue",
+        "read": "",
+        "rgb": [
+            95,
+            158,
+            160
+        ]
+    },
+    {
+        "value": "#66cdaa",
+        "name": "MediumAquamarine",
+        "read": "",
+        "rgb": [
+            102,
+            205,
+            170
+        ]
+    },
+    {
+        "value": "#7fffd4",
+        "name": "Aquamarine",
+        "read": "",
+        "rgb": [
+            127,
+            255,
+            212
+        ]
+    },
+    {
+        "value": "#006400",
+        "name": "DarkGreen",
+        "read": "",
+        "rgb": [
+            0,
+            100,
+            0
+        ]
+    },
+    {
+        "value": "#556b2f",
+        "name": "DarkOliveGreen",
+        "read": "",
+        "rgb": [
+            85,
+            107,
+            47
+        ]
+    },
+    {
+        "value": "#8fbc8f",
+        "name": "DarkSeaGreen",
+        "read": "",
+        "rgb": [
+            143,
+            188,
+            143
+        ]
+    },
+    {
+        "value": "#2e8b57",
+        "name": "SeaGreen",
+        "read": "",
+        "rgb": [
+            46,
+            139,
+            87
+        ]
+    },
+    {
+        "value": "#3cb371",
+        "name": "MediumSeaGreen",
+        "read": "",
+        "rgb": [
+            60,
+            179,
+            113
+        ]
+    },
+    {
+        "value": "#20b2aa",
+        "name": "LightSeaGreen",
+        "read": "",
+        "rgb": [
+            32,
+            178,
+            170
+        ]
+    },
+    {
+        "value": "#98fb98",
+        "name": "PaleGreen",
+        "read": "",
+        "rgb": [
+            152,
+            251,
+            152
+        ]
+    },
+    {
+        "value": "#00ff7f",
+        "name": "SpringGreen",
+        "read": "",
+        "rgb": [
+            0,
+            255,
+            127
+        ]
+    },
+    {
+        "value": "#7cfc00",
+        "name": "LawnGreen",
+        "read": "",
+        "rgb": [
+            124,
+            252,
+            0
+        ]
+    },
+    {
+        "value": "#00ff00",
+        "name": "Green",
+        "read": "",
+        "rgb": [
+            0,
+            255,
+            0
+        ]
+    },
+    {
+        "value": "#7fff00",
+        "name": "Chartreuse",
+        "read": "",
+        "rgb": [
+            127,
+            255,
+            0
+        ]
+    },
+    {
+        "value": "#00fa9a",
+        "name": "MedSpringGreen",
+        "read": "",
+        "rgb": [
+            0,
+            250,
+            154
+        ]
+    },
+    {
+        "value": "#adff2f",
+        "name": "GreenYellow",
+        "read": "",
+        "rgb": [
+            173,
+            255,
+            47
+        ]
+    },
+    {
+        "value": "#32cd32",
+        "name": "LimeGreen",
+        "read": "",
+        "rgb": [
+            50,
+            205,
+            50
+        ]
+    },
+    {
+        "value": "#9acd32",
+        "name": "YellowGreen",
+        "read": "",
+        "rgb": [
+            154,
+            205,
+            50
+        ]
+    },
+    {
+        "value": "#228b22",
+        "name": "ForestGreen",
+        "read": "",
+        "rgb": [
+            34,
+            139,
+            34
+        ]
+    },
+    {
+        "value": "#6b8e23",
+        "name": "OliveDrab",
+        "read": "",
+        "rgb": [
+            107,
+            142,
+            35
+        ]
+    },
+    {
+        "value": "#bdb76b",
+        "name": "DarkKhaki",
+        "read": "",
+        "rgb": [
+            189,
+            183,
+            107
+        ]
+    },
+    {
+        "value": "#eee8aa",
+        "name": "PaleGoldenrod",
+        "read": "",
+        "rgb": [
+            238,
+            232,
+            170
+        ]
+    },
+    {
+        "value": "#fafad2",
+        "name": "LtGoldenrodYello",
+        "read": "",
+        "rgb": [
+            250,
+            250,
+            210
+        ]
+    },
+    {
+        "value": "#ffffe0",
+        "name": "LightYellow",
+        "read": "",
+        "rgb": [
+            255,
+            255,
+            224
+        ]
+    },
+    {
+        "value": "#ffff00",
+        "name": "Yellow",
+        "read": "",
+        "rgb": [
+            255,
+            255,
+            0
+        ]
+    },
+    {
+        "value": "#ffd700",
+        "name": "Gold",
+        "read": "",
+        "rgb": [
+            255,
+            215,
+            0
+        ]
+    },
+    {
+        "value": "#eedd82",
+        "name": "LightGoldenrod",
+        "read": "",
+        "rgb": [
+            238,
+            221,
+            130
+        ]
+    },
+    {
+        "value": "#daa520",
+        "name": "goldenrod",
+        "read": "",
+        "rgb": [
+            218,
+            165,
+            32
+        ]
+    },
+    {
+        "value": "#b8860b",
+        "name": "DarkGoldenrod",
+        "read": "",
+        "rgb": [
+            184,
+            134,
+            11
+        ]
+    },
+    {
+        "value": "#bc8f8f",
+        "name": "RosyBrown",
+        "read": "",
+        "rgb": [
+            188,
+            143,
+            143
+        ]
+    },
+    {
+        "value": "#cd5c5c",
+        "name": "IndianRed",
+        "read": "",
+        "rgb": [
+            205,
+            92,
+            92
+        ]
+    },
+    {
+        "value": "#8b4513",
+        "name": "SaddleBrown",
+        "read": "",
+        "rgb": [
+            139,
+            69,
+            19
+        ]
+    },
+    {
+        "value": "#a0522d",
+        "name": "Sienna",
+        "read": "",
+        "rgb": [
+            160,
+            82,
+            45
+        ]
+    },
+    {
+        "value": "#cd853f",
+        "name": "Peru",
+        "read": "",
+        "rgb": [
+            205,
+            133,
+            63
+        ]
+    },
+    {
+        "value": "#deb887",
+        "name": "Burlywood",
+        "read": "",
+        "rgb": [
+            222,
+            184,
+            135
+        ]
+    },
+    {
+        "value": "#f5f5dc",
+        "name": "Beige",
+        "read": "",
+        "rgb": [
+            245,
+            245,
+            220
+        ]
+    },
+    {
+        "value": "#f5deb3",
+        "name": "Wheat",
+        "read": "",
+        "rgb": [
+            245,
+            222,
+            179
+        ]
+    },
+    {
+        "value": "#f4a460",
+        "name": "SandyBrown",
+        "read": "",
+        "rgb": [
+            244,
+            164,
+            96
+        ]
+    },
+    {
+        "value": "#d2b48c",
+        "name": "Tan",
+        "read": "",
+        "rgb": [
+            210,
+            180,
+            140
+        ]
+    },
+    {
+        "value": "#d2691e",
+        "name": "Chocolate",
+        "read": "",
+        "rgb": [
+            210,
+            105,
+            30
+        ]
+    },
+    {
+        "value": "#b22222",
+        "name": "Firebrick",
+        "read": "",
+        "rgb": [
+            178,
+            34,
+            34
+        ]
+    },
+    {
+        "value": "#a52a2a",
+        "name": "Brown",
+        "read": "",
+        "rgb": [
+            165,
+            42,
+            42
+        ]
+    },
+    {
+        "value": "#e9967a",
+        "name": "DarkSalmon",
+        "read": "",
+        "rgb": [
+            233,
+            150,
+            122
+        ]
+    },
+    {
+        "value": "#fa8072",
+        "name": "Salmon",
+        "read": "",
+        "rgb": [
+            250,
+            128,
+            114
+        ]
+    },
+    {
+        "value": "#ffa07a",
+        "name": "LightSalmon",
+        "read": "",
+        "rgb": [
+            255,
+            160,
+            122
+        ]
+    },
+    {
+        "value": "#ffa500",
+        "name": "Orange",
+        "read": "",
+        "rgb": [
+            255,
+            165,
+            0
+        ]
+    },
+    {
+        "value": "#ff8c00",
+        "name": "DarkOrange",
+        "read": "",
+        "rgb": [
+            255,
+            140,
+            0
+        ]
+    },
+    {
+        "value": "#ff7f50",
+        "name": "Coral",
+        "read": "",
+        "rgb": [
+            255,
+            127,
+            80
+        ]
+    },
+    {
+        "value": "#f08080",
+        "name": "LightCoral",
+        "read": "",
+        "rgb": [
+            240,
+            128,
+            128
+        ]
+    },
+    {
+        "value": "#ff6347",
+        "name": "Tomato",
+        "read": "",
+        "rgb": [
+            255,
+            99,
+            71
+        ]
+    },
+    {
+        "value": "#ff4500",
+        "name": "OrangeRed",
+        "read": "",
+        "rgb": [
+            255,
+            69,
+            0
+        ]
+    },
+    {
+        "value": "#ff0000",
+        "name": "Red",
+        "read": "",
+        "rgb": [
+            255,
+            0,
+            0
+        ]
+    },
+    {
+        "value": "#ff69b4",
+        "name": "HotPink",
+        "read": "",
+        "rgb": [
+            255,
+            105,
+            180
+        ]
+    },
+    {
+        "value": "#ff1493",
+        "name": "DeepPink",
+        "read": "",
+        "rgb": [
+            255,
+            20,
+            147
+        ]
+    },
+    {
+        "value": "#ffc0cb",
+        "name": "Pink",
+        "read": "",
+        "rgb": [
+            255,
+            192,
+            203
+        ]
+    },
+    {
+        "value": "#ffb6c1",
+        "name": "LightPink",
+        "read": "",
+        "rgb": [
+            255,
+            182,
+            193
+        ]
+    },
+    {
+        "value": "#db7093",
+        "name": "PaleVioletRed",
+        "read": "",
+        "rgb": [
+            219,
+            112,
+            147
+        ]
+    },
+    {
+        "value": "#b03060",
+        "name": "Maroon",
+        "read": "",
+        "rgb": [
+            176,
+            48,
+            96
+        ]
+    },
+    {
+        "value": "#c71585",
+        "name": "MediumVioletRed",
+        "read": "",
+        "rgb": [
+            199,
+            21,
+            133
+        ]
+    },
+    {
+        "value": "#d02090",
+        "name": "VioletRed",
+        "read": "",
+        "rgb": [
+            208,
+            32,
+            144
+        ]
+    },
+    {
+        "value": "#ff00ff",
+        "name": "Magenta",
+        "read": "",
+        "rgb": [
+            255,
+            0,
+            255
+        ]
+    },
+    {
+        "value": "#ee82ee",
+        "name": "Violet",
+        "read": "",
+        "rgb": [
+            238,
+            130,
+            238
+        ]
+    },
+    {
+        "value": "#dda0dd",
+        "name": "Plum",
+        "read": "",
+        "rgb": [
+            221,
+            160,
+            221
+        ]
+    },
+    {
+        "value": "#da70d6",
+        "name": "Orchid",
+        "read": "",
+        "rgb": [
+            218,
+            112,
+            214
+        ]
+    },
+    {
+        "value": "#ba55d3",
+        "name": "MediumOrchid",
+        "read": "",
+        "rgb": [
+            186,
+            85,
+            211
+        ]
+    },
+    {
+        "value": "#9932cc",
+        "name": "DarkOrchid",
+        "read": "",
+        "rgb": [
+            153,
+            50,
+            204
+        ]
+    },
+    {
+        "value": "#9400d3",
+        "name": "DarkViolet",
+        "read": "",
+        "rgb": [
+            148,
+            0,
+            211
+        ]
+    },
+    {
+        "value": "#8a2be2",
+        "name": "BlueViolet",
+        "read": "",
+        "rgb": [
+            138,
+            43,
+            226
+        ]
+    },
+    {
+        "value": "#a020f0",
+        "name": "Purple",
+        "read": "",
+        "rgb": [
+            160,
+            32,
+            240
+        ]
+    },
+    {
+        "value": "#9370db",
+        "name": "MediumPurple",
+        "read": "",
+        "rgb": [
+            147,
+            112,
+            219
+        ]
+    },
+    {
+        "value": "#d8bfd8",
+        "name": "Thistle",
+        "read": "",
+        "rgb": [
+            216,
+            191,
+            216
+        ]
+    },
+    {
+        "value": "#fffafa",
+        "name": "Snow1",
+        "read": "",
+        "rgb": [
+            255,
+            250,
+            250
+        ]
+    },
+    {
+        "value": "#eee9e9",
+        "name": "Snow2",
+        "read": "",
+        "rgb": [
+            238,
+            233,
+            233
+        ]
+    },
+    {
+        "value": "#cdc9c9",
+        "name": "Snow3",
+        "read": "",
+        "rgb": [
+            205,
+            201,
+            201
+        ]
+    },
+    {
+        "value": "#8b8989",
+        "name": "Snow4",
+        "read": "",
+        "rgb": [
+            139,
+            137,
+            137
+        ]
+    },
+    {
+        "value": "#fff5ee",
+        "name": "Seashell1",
+        "read": "",
+        "rgb": [
+            255,
+            245,
+            238
+        ]
+    },
+    {
+        "value": "#eee5de",
+        "name": "Seashell2",
+        "read": "",
+        "rgb": [
+            238,
+            229,
+            222
+        ]
+    },
+    {
+        "value": "#cdc5bf",
+        "name": "Seashell3",
+        "read": "",
+        "rgb": [
+            205,
+            197,
+            191
+        ]
+    },
+    {
+        "value": "#8b8682",
+        "name": "Seashell4",
+        "read": "",
+        "rgb": [
+            139,
+            134,
+            130
+        ]
+    },
+    {
+        "value": "#ffefdb",
+        "name": "AntiqueWhite1",
+        "read": "",
+        "rgb": [
+            255,
+            239,
+            219
+        ]
+    },
+    {
+        "value": "#eedfcc",
+        "name": "AntiqueWhite2",
+        "read": "",
+        "rgb": [
+            238,
+            223,
+            204
+        ]
+    },
+    {
+        "value": "#cdc0b0",
+        "name": "AntiqueWhite3",
+        "read": "",
+        "rgb": [
+            205,
+            192,
+            176
+        ]
+    },
+    {
+        "value": "#8b8378",
+        "name": "AntiqueWhite4",
+        "read": "",
+        "rgb": [
+            139,
+            131,
+            120
+        ]
+    },
+    {
+        "value": "#ffe4c4",
+        "name": "Bisque1",
+        "read": "",
+        "rgb": [
+            255,
+            228,
+            196
+        ]
+    },
+    {
+        "value": "#eed5b7",
+        "name": "Bisque2",
+        "read": "",
+        "rgb": [
+            238,
+            213,
+            183
+        ]
+    },
+    {
+        "value": "#cdb79e",
+        "name": "Bisque3",
+        "read": "",
+        "rgb": [
+            205,
+            183,
+            158
+        ]
+    },
+    {
+        "value": "#8b7d6b",
+        "name": "Bisque4",
+        "read": "",
+        "rgb": [
+            139,
+            125,
+            107
+        ]
+    },
+    {
+        "value": "#ffdab9",
+        "name": "PeachPuff1",
+        "read": "",
+        "rgb": [
+            255,
+            218,
+            185
+        ]
+    },
+    {
+        "value": "#eecbad",
+        "name": "PeachPuff2",
+        "read": "",
+        "rgb": [
+            238,
+            203,
+            173
+        ]
+    },
+    {
+        "value": "#cdaf95",
+        "name": "PeachPuff3",
+        "read": "",
+        "rgb": [
+            205,
+            175,
+            149
+        ]
+    },
+    {
+        "value": "#8b7765",
+        "name": "PeachPuff4",
+        "read": "",
+        "rgb": [
+            139,
+            119,
+            101
+        ]
+    },
+    {
+        "value": "#ffdead",
+        "name": "NavajoWhite1",
+        "read": "",
+        "rgb": [
+            255,
+            222,
+            173
+        ]
+    },
+    {
+        "value": "#eecfa1",
+        "name": "NavajoWhite2",
+        "read": "",
+        "rgb": [
+            238,
+            207,
+            161
+        ]
+    },
+    {
+        "value": "#cdb38b",
+        "name": "NavajoWhite3",
+        "read": "",
+        "rgb": [
+            205,
+            179,
+            139
+        ]
+    },
+    {
+        "value": "#8b795e",
+        "name": "NavajoWhite4",
+        "read": "",
+        "rgb": [
+            139,
+            121,
+            94
+        ]
+    },
+    {
+        "value": "#fffacd",
+        "name": "LemonChiffon1",
+        "read": "",
+        "rgb": [
+            255,
+            250,
+            205
+        ]
+    },
+    {
+        "value": "#eee9bf",
+        "name": "LemonChiffon2",
+        "read": "",
+        "rgb": [
+            238,
+            233,
+            191
+        ]
+    },
+    {
+        "value": "#cdc9a5",
+        "name": "LemonChiffon3",
+        "read": "",
+        "rgb": [
+            205,
+            201,
+            165
+        ]
+    },
+    {
+        "value": "#8b8970",
+        "name": "LemonChiffon4",
+        "read": "",
+        "rgb": [
+            139,
+            137,
+            112
+        ]
+    },
+    {
+        "value": "#fff8dc",
+        "name": "Cornsilk1",
+        "read": "",
+        "rgb": [
+            255,
+            248,
+            220
+        ]
+    },
+    {
+        "value": "#eee8cd",
+        "name": "Cornsilk2",
+        "read": "",
+        "rgb": [
+            238,
+            232,
+            205
+        ]
+    },
+    {
+        "value": "#cdc8b1",
+        "name": "Cornsilk3",
+        "read": "",
+        "rgb": [
+            205,
+            200,
+            177
+        ]
+    },
+    {
+        "value": "#8b8878",
+        "name": "Cornsilk4",
+        "read": "",
+        "rgb": [
+            139,
+            136,
+            120
+        ]
+    },
+    {
+        "value": "#fffff0",
+        "name": "Ivory1",
+        "read": "",
+        "rgb": [
+            255,
+            255,
+            240
+        ]
+    },
+    {
+        "value": "#eeeee0",
+        "name": "Ivory2",
+        "read": "",
+        "rgb": [
+            238,
+            238,
+            224
+        ]
+    },
+    {
+        "value": "#cdcdc1",
+        "name": "Ivory3",
+        "read": "",
+        "rgb": [
+            205,
+            205,
+            193
+        ]
+    },
+    {
+        "value": "#8b8b83",
+        "name": "Ivory4",
+        "read": "",
+        "rgb": [
+            139,
+            139,
+            131
+        ]
+    },
+    {
+        "value": "#f0fff0",
+        "name": "Honeydew1",
+        "read": "",
+        "rgb": [
+            240,
+            255,
+            240
+        ]
+    },
+    {
+        "value": "#e0eee0",
+        "name": "Honeydew2",
+        "read": "",
+        "rgb": [
+            224,
+            238,
+            224
+        ]
+    },
+    {
+        "value": "#c1cdc1",
+        "name": "Honeydew3",
+        "read": "",
+        "rgb": [
+            193,
+            205,
+            193
+        ]
+    },
+    {
+        "value": "#838b83",
+        "name": "Honeydew4",
+        "read": "",
+        "rgb": [
+            131,
+            139,
+            131
+        ]
+    },
+    {
+        "value": "#fff0f5",
+        "name": "LavenderBlush1",
+        "read": "",
+        "rgb": [
+            255,
+            240,
+            245
+        ]
+    },
+    {
+        "value": "#eee0e5",
+        "name": "LavenderBlush2",
+        "read": "",
+        "rgb": [
+            238,
+            224,
+            229
+        ]
+    },
+    {
+        "value": "#cdc1c5",
+        "name": "LavenderBlush3",
+        "read": "",
+        "rgb": [
+            205,
+            193,
+            197
+        ]
+    },
+    {
+        "value": "#8b8386",
+        "name": "LavenderBlush4",
+        "read": "",
+        "rgb": [
+            139,
+            131,
+            134
+        ]
+    },
+    {
+        "value": "#ffe4e1",
+        "name": "MistyRose1",
+        "read": "",
+        "rgb": [
+            255,
+            228,
+            225
+        ]
+    },
+    {
+        "value": "#eed5d2",
+        "name": "MistyRose2",
+        "read": "",
+        "rgb": [
+            238,
+            213,
+            210
+        ]
+    },
+    {
+        "value": "#cdb7b5",
+        "name": "MistyRose3",
+        "read": "",
+        "rgb": [
+            205,
+            183,
+            181
+        ]
+    },
+    {
+        "value": "#8b7d7b",
+        "name": "MistyRose4",
+        "read": "",
+        "rgb": [
+            139,
+            125,
+            123
+        ]
+    },
+    {
+        "value": "#f0ffff",
+        "name": "Azure1",
+        "read": "",
+        "rgb": [
+            240,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#e0eeee",
+        "name": "Azure2",
+        "read": "",
+        "rgb": [
+            224,
+            238,
+            238
+        ]
+    },
+    {
+        "value": "#c1cdcd",
+        "name": "Azure3",
+        "read": "",
+        "rgb": [
+            193,
+            205,
+            205
+        ]
+    },
+    {
+        "value": "#838b8b",
+        "name": "Azure4",
+        "read": "",
+        "rgb": [
+            131,
+            139,
+            139
+        ]
+    },
+    {
+        "value": "#836fff",
+        "name": "SlateBlue1",
+        "read": "",
+        "rgb": [
+            131,
+            111,
+            255
+        ]
+    },
+    {
+        "value": "#7a67ee",
+        "name": "SlateBlue2",
+        "read": "",
+        "rgb": [
+            122,
+            103,
+            238
+        ]
+    },
+    {
+        "value": "#6959cd",
+        "name": "SlateBlue3",
+        "read": "",
+        "rgb": [
+            105,
+            89,
+            205
+        ]
+    },
+    {
+        "value": "#473c8b",
+        "name": "SlateBlue4",
+        "read": "",
+        "rgb": [
+            71,
+            60,
+            139
+        ]
+    },
+    {
+        "value": "#4876ff",
+        "name": "RoyalBlue1",
+        "read": "",
+        "rgb": [
+            72,
+            118,
+            255
+        ]
+    },
+    {
+        "value": "#436eee",
+        "name": "RoyalBlue2",
+        "read": "",
+        "rgb": [
+            67,
+            110,
+            238
+        ]
+    },
+    {
+        "value": "#3a5fcd",
+        "name": "RoyalBlue3",
+        "read": "",
+        "rgb": [
+            58,
+            95,
+            205
+        ]
+    },
+    {
+        "value": "#27408b",
+        "name": "RoyalBlue4",
+        "read": "",
+        "rgb": [
+            39,
+            64,
+            139
+        ]
+    },
+    {
+        "value": "#0000ff",
+        "name": "Blue1",
+        "read": "",
+        "rgb": [
+            0,
+            0,
+            255
+        ]
+    },
+    {
+        "value": "#0000ee",
+        "name": "Blue2",
+        "read": "",
+        "rgb": [
+            0,
+            0,
+            238
+        ]
+    },
+    {
+        "value": "#0000cd",
+        "name": "Blue3",
+        "read": "",
+        "rgb": [
+            0,
+            0,
+            205
+        ]
+    },
+    {
+        "value": "#00008b",
+        "name": "Blue4",
+        "read": "",
+        "rgb": [
+            0,
+            0,
+            139
+        ]
+    },
+    {
+        "value": "#1e90ff",
+        "name": "DodgerBlue1",
+        "read": "",
+        "rgb": [
+            30,
+            144,
+            255
+        ]
+    },
+    {
+        "value": "#1c86ee",
+        "name": "DodgerBlue2",
+        "read": "",
+        "rgb": [
+            28,
+            134,
+            238
+        ]
+    },
+    {
+        "value": "#1874cd",
+        "name": "DodgerBlue3",
+        "read": "",
+        "rgb": [
+            24,
+            116,
+            205
+        ]
+    },
+    {
+        "value": "#104e8b",
+        "name": "DodgerBlue4",
+        "read": "",
+        "rgb": [
+            16,
+            78,
+            139
+        ]
+    },
+    {
+        "value": "#63b8ff",
+        "name": "SteelBlue1",
+        "read": "",
+        "rgb": [
+            99,
+            184,
+            255
+        ]
+    },
+    {
+        "value": "#5cacee",
+        "name": "SteelBlue2",
+        "read": "",
+        "rgb": [
+            92,
+            172,
+            238
+        ]
+    },
+    {
+        "value": "#4f94cd",
+        "name": "SteelBlue3",
+        "read": "",
+        "rgb": [
+            79,
+            148,
+            205
+        ]
+    },
+    {
+        "value": "#36648b",
+        "name": "SteelBlue4",
+        "read": "",
+        "rgb": [
+            54,
+            100,
+            139
+        ]
+    },
+    {
+        "value": "#00bfff",
+        "name": "DeepSkyBlue1",
+        "read": "",
+        "rgb": [
+            0,
+            191,
+            255
+        ]
+    },
+    {
+        "value": "#00b2ee",
+        "name": "DeepSkyBlue2",
+        "read": "",
+        "rgb": [
+            0,
+            178,
+            238
+        ]
+    },
+    {
+        "value": "#009acd",
+        "name": "DeepSkyBlue3",
+        "read": "",
+        "rgb": [
+            0,
+            154,
+            205
+        ]
+    },
+    {
+        "value": "#00688b",
+        "name": "DeepSkyBlue4",
+        "read": "",
+        "rgb": [
+            0,
+            104,
+            139
+        ]
+    },
+    {
+        "value": "#87ceff",
+        "name": "SkyBlue1",
+        "read": "",
+        "rgb": [
+            135,
+            206,
+            255
+        ]
+    },
+    {
+        "value": "#7ec0ee",
+        "name": "SkyBlue2",
+        "read": "",
+        "rgb": [
+            126,
+            192,
+            238
+        ]
+    },
+    {
+        "value": "#6ca6cd",
+        "name": "SkyBlue3",
+        "read": "",
+        "rgb": [
+            108,
+            166,
+            205
+        ]
+    },
+    {
+        "value": "#4a708b",
+        "name": "SkyBlue4",
+        "read": "",
+        "rgb": [
+            74,
+            112,
+            139
+        ]
+    },
+    {
+        "value": "#b0e2ff",
+        "name": "LightSkyBlue1",
+        "read": "",
+        "rgb": [
+            176,
+            226,
+            255
+        ]
+    },
+    {
+        "value": "#a4d3ee",
+        "name": "LightSkyBlue2",
+        "read": "",
+        "rgb": [
+            164,
+            211,
+            238
+        ]
+    },
+    {
+        "value": "#8db6cd",
+        "name": "LightSkyBlue3",
+        "read": "",
+        "rgb": [
+            141,
+            182,
+            205
+        ]
+    },
+    {
+        "value": "#607b8b",
+        "name": "LightSkyBlue4",
+        "read": "",
+        "rgb": [
+            96,
+            123,
+            139
+        ]
+    },
+    {
+        "value": "#c6e2ff",
+        "name": "SlateGray1",
+        "read": "",
+        "rgb": [
+            198,
+            226,
+            255
+        ]
+    },
+    {
+        "value": "#b9d3ee",
+        "name": "SlateGray2",
+        "read": "",
+        "rgb": [
+            185,
+            211,
+            238
+        ]
+    },
+    {
+        "value": "#9fb6cd",
+        "name": "SlateGray3",
+        "read": "",
+        "rgb": [
+            159,
+            182,
+            205
+        ]
+    },
+    {
+        "value": "#6c7b8b",
+        "name": "SlateGray4",
+        "read": "",
+        "rgb": [
+            108,
+            123,
+            139
+        ]
+    },
+    {
+        "value": "#cae1ff",
+        "name": "LightSteelBlue1",
+        "read": "",
+        "rgb": [
+            202,
+            225,
+            255
+        ]
+    },
+    {
+        "value": "#bcd2ee",
+        "name": "LightSteelBlue2",
+        "read": "",
+        "rgb": [
+            188,
+            210,
+            238
+        ]
+    },
+    {
+        "value": "#a2b5cd",
+        "name": "LightSteelBlue3",
+        "read": "",
+        "rgb": [
+            162,
+            181,
+            205
+        ]
+    },
+    {
+        "value": "#6e7b8b",
+        "name": "LightSteelBlue4",
+        "read": "",
+        "rgb": [
+            110,
+            123,
+            139
+        ]
+    },
+    {
+        "value": "#bfefff",
+        "name": "LightBlue1",
+        "read": "",
+        "rgb": [
+            191,
+            239,
+            255
+        ]
+    },
+    {
+        "value": "#b2dfee",
+        "name": "LightBlue2",
+        "read": "",
+        "rgb": [
+            178,
+            223,
+            238
+        ]
+    },
+    {
+        "value": "#9ac0cd",
+        "name": "LightBlue3",
+        "read": "",
+        "rgb": [
+            154,
+            192,
+            205
+        ]
+    },
+    {
+        "value": "#68838b",
+        "name": "LightBlue4",
+        "read": "",
+        "rgb": [
+            104,
+            131,
+            139
+        ]
+    },
+    {
+        "value": "#e0ffff",
+        "name": "LightCyan1",
+        "read": "",
+        "rgb": [
+            224,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#d1eeee",
+        "name": "LightCyan2",
+        "read": "",
+        "rgb": [
+            209,
+            238,
+            238
+        ]
+    },
+    {
+        "value": "#b4cdcd",
+        "name": "LightCyan3",
+        "read": "",
+        "rgb": [
+            180,
+            205,
+            205
+        ]
+    },
+    {
+        "value": "#7a8b8b",
+        "name": "LightCyan4",
+        "read": "",
+        "rgb": [
+            122,
+            139,
+            139
+        ]
+    },
+    {
+        "value": "#bbffff",
+        "name": "PaleTurquoise1",
+        "read": "",
+        "rgb": [
+            187,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#aeeeee",
+        "name": "PaleTurquoise2",
+        "read": "",
+        "rgb": [
+            174,
+            238,
+            238
+        ]
+    },
+    {
+        "value": "#96cdcd",
+        "name": "PaleTurquoise3",
+        "read": "",
+        "rgb": [
+            150,
+            205,
+            205
+        ]
+    },
+    {
+        "value": "#668b8b",
+        "name": "PaleTurquoise4",
+        "read": "",
+        "rgb": [
+            102,
+            139,
+            139
+        ]
+    },
+    {
+        "value": "#98f5ff",
+        "name": "CadetBlue1",
+        "read": "",
+        "rgb": [
+            152,
+            245,
+            255
+        ]
+    },
+    {
+        "value": "#8ee5ee",
+        "name": "CadetBlue2",
+        "read": "",
+        "rgb": [
+            142,
+            229,
+            238
+        ]
+    },
+    {
+        "value": "#7ac5cd",
+        "name": "CadetBlue3",
+        "read": "",
+        "rgb": [
+            122,
+            197,
+            205
+        ]
+    },
+    {
+        "value": "#53868b",
+        "name": "CadetBlue4",
+        "read": "",
+        "rgb": [
+            83,
+            134,
+            139
+        ]
+    },
+    {
+        "value": "#00f5ff",
+        "name": "Turquoise1",
+        "read": "",
+        "rgb": [
+            0,
+            245,
+            255
+        ]
+    },
+    {
+        "value": "#00e5ee",
+        "name": "Turquoise2",
+        "read": "",
+        "rgb": [
+            0,
+            229,
+            238
+        ]
+    },
+    {
+        "value": "#00c5cd",
+        "name": "Turquoise3",
+        "read": "",
+        "rgb": [
+            0,
+            197,
+            205
+        ]
+    },
+    {
+        "value": "#00868b",
+        "name": "Turquoise4",
+        "read": "",
+        "rgb": [
+            0,
+            134,
+            139
+        ]
+    },
+    {
+        "value": "#00ffff",
+        "name": "Cyan1",
+        "read": "",
+        "rgb": [
+            0,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#00eeee",
+        "name": "Cyan2",
+        "read": "",
+        "rgb": [
+            0,
+            238,
+            238
+        ]
+    },
+    {
+        "value": "#00cdcd",
+        "name": "Cyan3",
+        "read": "",
+        "rgb": [
+            0,
+            205,
+            205
+        ]
+    },
+    {
+        "value": "#008b8b",
+        "name": "Cyan4",
+        "read": "",
+        "rgb": [
+            0,
+            139,
+            139
+        ]
+    },
+    {
+        "value": "#97ffff",
+        "name": "DarkSlateGray1",
+        "read": "",
+        "rgb": [
+            151,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#8deeee",
+        "name": "DarkSlateGray2",
+        "read": "",
+        "rgb": [
+            141,
+            238,
+            238
+        ]
+    },
+    {
+        "value": "#79cdcd",
+        "name": "DarkSlateGray3",
+        "read": "",
+        "rgb": [
+            121,
+            205,
+            205
+        ]
+    },
+    {
+        "value": "#528b8b",
+        "name": "DarkSlateGray4",
+        "read": "",
+        "rgb": [
+            82,
+            139,
+            139
+        ]
+    },
+    {
+        "value": "#7fffd4",
+        "name": "Aquamarine1",
+        "read": "",
+        "rgb": [
+            127,
+            255,
+            212
+        ]
+    },
+    {
+        "value": "#76eec6",
+        "name": "Aquamarine2",
+        "read": "",
+        "rgb": [
+            118,
+            238,
+            198
+        ]
+    },
+    {
+        "value": "#66cdaa",
+        "name": "Aquamarine3",
+        "read": "",
+        "rgb": [
+            102,
+            205,
+            170
+        ]
+    },
+    {
+        "value": "#458b74",
+        "name": "Aquamarine4",
+        "read": "",
+        "rgb": [
+            69,
+            139,
+            116
+        ]
+    },
+    {
+        "value": "#c1ffc1",
+        "name": "DarkSeaGreen1",
+        "read": "",
+        "rgb": [
+            193,
+            255,
+            193
+        ]
+    },
+    {
+        "value": "#b4eeb4",
+        "name": "DarkSeaGreen2",
+        "read": "",
+        "rgb": [
+            180,
+            238,
+            180
+        ]
+    },
+    {
+        "value": "#9bcd9b",
+        "name": "DarkSeaGreen3",
+        "read": "",
+        "rgb": [
+            155,
+            205,
+            155
+        ]
+    },
+    {
+        "value": "#698b69",
+        "name": "DarkSeaGreen4",
+        "read": "",
+        "rgb": [
+            105,
+            139,
+            105
+        ]
+    },
+    {
+        "value": "#54ff9f",
+        "name": "SeaGreen1",
+        "read": "",
+        "rgb": [
+            84,
+            255,
+            159
+        ]
+    },
+    {
+        "value": "#4eee94",
+        "name": "SeaGreen2",
+        "read": "",
+        "rgb": [
+            78,
+            238,
+            148
+        ]
+    },
+    {
+        "value": "#43cd80",
+        "name": "SeaGreen3",
+        "read": "",
+        "rgb": [
+            67,
+            205,
+            128
+        ]
+    },
+    {
+        "value": "#2e8b57",
+        "name": "SeaGreen4",
+        "read": "",
+        "rgb": [
+            46,
+            139,
+            87
+        ]
+    },
+    {
+        "value": "#9aff9a",
+        "name": "PaleGreen1",
+        "read": "",
+        "rgb": [
+            154,
+            255,
+            154
+        ]
+    },
+    {
+        "value": "#90ee90",
+        "name": "PaleGreen2",
+        "read": "",
+        "rgb": [
+            144,
+            238,
+            144
+        ]
+    },
+    {
+        "value": "#7ccd7c",
+        "name": "PaleGreen3",
+        "read": "",
+        "rgb": [
+            124,
+            205,
+            124
+        ]
+    },
+    {
+        "value": "#548b54",
+        "name": "PaleGreen4",
+        "read": "",
+        "rgb": [
+            84,
+            139,
+            84
+        ]
+    },
+    {
+        "value": "#00ff7f",
+        "name": "SpringGreen1",
+        "read": "",
+        "rgb": [
+            0,
+            255,
+            127
+        ]
+    },
+    {
+        "value": "#00ee76",
+        "name": "SpringGreen2",
+        "read": "",
+        "rgb": [
+            0,
+            238,
+            118
+        ]
+    },
+    {
+        "value": "#00cd66",
+        "name": "SpringGreen3",
+        "read": "",
+        "rgb": [
+            0,
+            205,
+            102
+        ]
+    },
+    {
+        "value": "#008b45",
+        "name": "SpringGreen4",
+        "read": "",
+        "rgb": [
+            0,
+            139,
+            69
+        ]
+    },
+    {
+        "value": "#00ff00",
+        "name": "Green1",
+        "read": "",
+        "rgb": [
+            0,
+            255,
+            0
+        ]
+    },
+    {
+        "value": "#00ee00",
+        "name": "Green2",
+        "read": "",
+        "rgb": [
+            0,
+            238,
+            0
+        ]
+    },
+    {
+        "value": "#00cd00",
+        "name": "Green3",
+        "read": "",
+        "rgb": [
+            0,
+            205,
+            0
+        ]
+    },
+    {
+        "value": "#008b00",
+        "name": "Green4",
+        "read": "",
+        "rgb": [
+            0,
+            139,
+            0
+        ]
+    },
+    {
+        "value": "#7fff00",
+        "name": "Chartreuse1",
+        "read": "",
+        "rgb": [
+            127,
+            255,
+            0
+        ]
+    },
+    {
+        "value": "#76ee00",
+        "name": "Chartreuse2",
+        "read": "",
+        "rgb": [
+            118,
+            238,
+            0
+        ]
+    },
+    {
+        "value": "#66cd00",
+        "name": "Chartreuse3",
+        "read": "",
+        "rgb": [
+            102,
+            205,
+            0
+        ]
+    },
+    {
+        "value": "#458b00",
+        "name": "Chartreuse4",
+        "read": "",
+        "rgb": [
+            69,
+            139,
+            0
+        ]
+    },
+    {
+        "value": "#c0ff3e",
+        "name": "OliveDrab1",
+        "read": "",
+        "rgb": [
+            192,
+            255,
+            62
+        ]
+    },
+    {
+        "value": "#b3ee3a",
+        "name": "OliveDrab2",
+        "read": "",
+        "rgb": [
+            179,
+            238,
+            58
+        ]
+    },
+    {
+        "value": "#9acd32",
+        "name": "OliveDrab3",
+        "read": "",
+        "rgb": [
+            154,
+            205,
+            50
+        ]
+    },
+    {
+        "value": "#698b22",
+        "name": "OliveDrab4",
+        "read": "",
+        "rgb": [
+            105,
+            139,
+            34
+        ]
+    },
+    {
+        "value": "#caff70",
+        "name": "DarkOliveGreen1",
+        "read": "",
+        "rgb": [
+            202,
+            255,
+            112
+        ]
+    },
+    {
+        "value": "#bcee68",
+        "name": "DarkOliveGreen2",
+        "read": "",
+        "rgb": [
+            188,
+            238,
+            104
+        ]
+    },
+    {
+        "value": "#a2cd5a",
+        "name": "DarkOliveGreen3",
+        "read": "",
+        "rgb": [
+            162,
+            205,
+            90
+        ]
+    },
+    {
+        "value": "#6e8b3d",
+        "name": "DarkOliveGreen4",
+        "read": "",
+        "rgb": [
+            110,
+            139,
+            61
+        ]
+    },
+    {
+        "value": "#fff68f",
+        "name": "Khaki1",
+        "read": "",
+        "rgb": [
+            255,
+            246,
+            143
+        ]
+    },
+    {
+        "value": "#eee685",
+        "name": "Khaki2",
+        "read": "",
+        "rgb": [
+            238,
+            230,
+            133
+        ]
+    },
+    {
+        "value": "#cdc673",
+        "name": "Khaki3",
+        "read": "",
+        "rgb": [
+            205,
+            198,
+            115
+        ]
+    },
+    {
+        "value": "#8b864e",
+        "name": "Khaki4",
+        "read": "",
+        "rgb": [
+            139,
+            134,
+            78
+        ]
+    },
+    {
+        "value": "#ffec8b",
+        "name": "LightGoldenrod1",
+        "read": "",
+        "rgb": [
+            255,
+            236,
+            139
+        ]
+    },
+    {
+        "value": "#eedc82",
+        "name": "LightGoldenrod2",
+        "read": "",
+        "rgb": [
+            238,
+            220,
+            130
+        ]
+    },
+    {
+        "value": "#cdbe70",
+        "name": "LightGoldenrod3",
+        "read": "",
+        "rgb": [
+            205,
+            190,
+            112
+        ]
+    },
+    {
+        "value": "#8b814c",
+        "name": "LightGoldenrod4",
+        "read": "",
+        "rgb": [
+            139,
+            129,
+            76
+        ]
+    },
+    {
+        "value": "#ffffe0",
+        "name": "LightYellow1",
+        "read": "",
+        "rgb": [
+            255,
+            255,
+            224
+        ]
+    },
+    {
+        "value": "#eeeed1",
+        "name": "LightYellow2",
+        "read": "",
+        "rgb": [
+            238,
+            238,
+            209
+        ]
+    },
+    {
+        "value": "#cdcdb4",
+        "name": "LightYellow3",
+        "read": "",
+        "rgb": [
+            205,
+            205,
+            180
+        ]
+    },
+    {
+        "value": "#8b8b7a",
+        "name": "LightYellow4",
+        "read": "",
+        "rgb": [
+            139,
+            139,
+            122
+        ]
+    },
+    {
+        "value": "#ffff00",
+        "name": "Yellow1",
+        "read": "",
+        "rgb": [
+            255,
+            255,
+            0
+        ]
+    },
+    {
+        "value": "#eeee00",
+        "name": "Yellow2",
+        "read": "",
+        "rgb": [
+            238,
+            238,
+            0
+        ]
+    },
+    {
+        "value": "#cdcd00",
+        "name": "Yellow3",
+        "read": "",
+        "rgb": [
+            205,
+            205,
+            0
+        ]
+    },
+    {
+        "value": "#8b8b00",
+        "name": "Yellow4",
+        "read": "",
+        "rgb": [
+            139,
+            139,
+            0
+        ]
+    },
+    {
+        "value": "#ffd700",
+        "name": "Gold1",
+        "read": "",
+        "rgb": [
+            255,
+            215,
+            0
+        ]
+    },
+    {
+        "value": "#eec900",
+        "name": "Gold2",
+        "read": "",
+        "rgb": [
+            238,
+            201,
+            0
+        ]
+    },
+    {
+        "value": "#cdad00",
+        "name": "Gold3",
+        "read": "",
+        "rgb": [
+            205,
+            173,
+            0
+        ]
+    },
+    {
+        "value": "#8b7500",
+        "name": "Gold4",
+        "read": "",
+        "rgb": [
+            139,
+            117,
+            0
+        ]
+    },
+    {
+        "value": "#ffc125",
+        "name": "Goldenrod1",
+        "read": "",
+        "rgb": [
+            255,
+            193,
+            37
+        ]
+    },
+    {
+        "value": "#eeb422",
+        "name": "Goldenrod2",
+        "read": "",
+        "rgb": [
+            238,
+            180,
+            34
+        ]
+    },
+    {
+        "value": "#cd9b1d",
+        "name": "Goldenrod3",
+        "read": "",
+        "rgb": [
+            205,
+            155,
+            29
+        ]
+    },
+    {
+        "value": "#8b6914",
+        "name": "Goldenrod4",
+        "read": "",
+        "rgb": [
+            139,
+            105,
+            20
+        ]
+    },
+    {
+        "value": "#ffb90f",
+        "name": "DarkGoldenrod1",
+        "read": "",
+        "rgb": [
+            255,
+            185,
+            15
+        ]
+    },
+    {
+        "value": "#eead0e",
+        "name": "DarkGoldenrod2",
+        "read": "",
+        "rgb": [
+            238,
+            173,
+            14
+        ]
+    },
+    {
+        "value": "#cd950c",
+        "name": "DarkGoldenrod3",
+        "read": "",
+        "rgb": [
+            205,
+            149,
+            12
+        ]
+    },
+    {
+        "value": "#8b658b",
+        "name": "DarkGoldenrod4",
+        "read": "",
+        "rgb": [
+            139,
+            101,
+            8
+        ]
+    },
+    {
+        "value": "#ffc1c1",
+        "name": "RosyBrown1",
+        "read": "",
+        "rgb": [
+            255,
+            193,
+            193
+        ]
+    },
+    {
+        "value": "#eeb4b4",
+        "name": "RosyBrown2",
+        "read": "",
+        "rgb": [
+            238,
+            180,
+            180
+        ]
+    },
+    {
+        "value": "#cd9b9b",
+        "name": "RosyBrown3",
+        "read": "",
+        "rgb": [
+            205,
+            155,
+            155
+        ]
+    },
+    {
+        "value": "#8b6969",
+        "name": "RosyBrown4",
+        "read": "",
+        "rgb": [
+            139,
+            105,
+            105
+        ]
+    },
+    {
+        "value": "#ff6a6a",
+        "name": "IndianRed1",
+        "read": "",
+        "rgb": [
+            255,
+            106,
+            106
+        ]
+    },
+    {
+        "value": "#ee6363",
+        "name": "IndianRed2",
+        "read": "",
+        "rgb": [
+            238,
+            99,
+            99
+        ]
+    },
+    {
+        "value": "#cd5555",
+        "name": "IndianRed3",
+        "read": "",
+        "rgb": [
+            205,
+            85,
+            85
+        ]
+    },
+    {
+        "value": "#8b3a3a",
+        "name": "IndianRed4",
+        "read": "",
+        "rgb": [
+            139,
+            58,
+            58
+        ]
+    },
+    {
+        "value": "#ff8247",
+        "name": "Sienna1",
+        "read": "",
+        "rgb": [
+            255,
+            130,
+            71
+        ]
+    },
+    {
+        "value": "#ee7942",
+        "name": "Sienna2",
+        "read": "",
+        "rgb": [
+            238,
+            121,
+            66
+        ]
+    },
+    {
+        "value": "#cd6839",
+        "name": "Sienna3",
+        "read": "",
+        "rgb": [
+            205,
+            104,
+            57
+        ]
+    },
+    {
+        "value": "#8b4726",
+        "name": "Sienna4",
+        "read": "",
+        "rgb": [
+            139,
+            71,
+            38
+        ]
+    },
+    {
+        "value": "#ffd39b",
+        "name": "Burlywood1",
+        "read": "",
+        "rgb": [
+            255,
+            211,
+            155
+        ]
+    },
+    {
+        "value": "#eec591",
+        "name": "Burlywood2",
+        "read": "",
+        "rgb": [
+            238,
+            197,
+            145
+        ]
+    },
+    {
+        "value": "#cdaa7d",
+        "name": "Burlywood3",
+        "read": "",
+        "rgb": [
+            205,
+            170,
+            125
+        ]
+    },
+    {
+        "value": "#8b7355",
+        "name": "Burlywood4",
+        "read": "",
+        "rgb": [
+            139,
+            115,
+            85
+        ]
+    },
+    {
+        "value": "#ffe7ba",
+        "name": "Wheat1",
+        "read": "",
+        "rgb": [
+            255,
+            231,
+            186
+        ]
+    },
+    {
+        "value": "#eed8ae",
+        "name": "Wheat2",
+        "read": "",
+        "rgb": [
+            238,
+            216,
+            174
+        ]
+    },
+    {
+        "value": "#cdba96",
+        "name": "Wheat3",
+        "read": "",
+        "rgb": [
+            205,
+            186,
+            150
+        ]
+    },
+    {
+        "value": "#8b7e66",
+        "name": "Wheat4",
+        "read": "",
+        "rgb": [
+            139,
+            126,
+            102
+        ]
+    },
+    {
+        "value": "#ffa54f",
+        "name": "Tan1",
+        "read": "",
+        "rgb": [
+            255,
+            165,
+            79
+        ]
+    },
+    {
+        "value": "#ee9a49",
+        "name": "Tan2",
+        "read": "",
+        "rgb": [
+            238,
+            154,
+            73
+        ]
+    },
+    {
+        "value": "#cd853f",
+        "name": "Tan3",
+        "read": "",
+        "rgb": [
+            205,
+            133,
+            63
+        ]
+    },
+    {
+        "value": "#8b5a2b",
+        "name": "Tan4",
+        "read": "",
+        "rgb": [
+            139,
+            90,
+            43
+        ]
+    },
+    {
+        "value": "#ff7f24",
+        "name": "Chocolate1",
+        "read": "",
+        "rgb": [
+            255,
+            127,
+            36
+        ]
+    },
+    {
+        "value": "#ee7621",
+        "name": "Chocolate2",
+        "read": "",
+        "rgb": [
+            238,
+            118,
+            33
+        ]
+    },
+    {
+        "value": "#cd661d",
+        "name": "Chocolate3",
+        "read": "",
+        "rgb": [
+            205,
+            102,
+            29
+        ]
+    },
+    {
+        "value": "#8b4513",
+        "name": "Chocolate4",
+        "read": "",
+        "rgb": [
+            139,
+            69,
+            19
+        ]
+    },
+    {
+        "value": "#ff3030",
+        "name": "Firebrick1",
+        "read": "",
+        "rgb": [
+            255,
+            48,
+            48
+        ]
+    },
+    {
+        "value": "#ee2c2c",
+        "name": "Firebrick2",
+        "read": "",
+        "rgb": [
+            238,
+            44,
+            44
+        ]
+    },
+    {
+        "value": "#cd2626",
+        "name": "Firebrick3",
+        "read": "",
+        "rgb": [
+            205,
+            38,
+            38
+        ]
+    },
+    {
+        "value": "#8b1a1a",
+        "name": "Firebrick4",
+        "read": "",
+        "rgb": [
+            139,
+            26,
+            26
+        ]
+    },
+    {
+        "value": "#ff4040",
+        "name": "Brown1",
+        "read": "",
+        "rgb": [
+            255,
+            64,
+            64
+        ]
+    },
+    {
+        "value": "#ee3b3b",
+        "name": "Brown2",
+        "read": "",
+        "rgb": [
+            238,
+            59,
+            59
+        ]
+    },
+    {
+        "value": "#cd3333",
+        "name": "Brown3",
+        "read": "",
+        "rgb": [
+            205,
+            51,
+            51
+        ]
+    },
+    {
+        "value": "#8b2323",
+        "name": "Brown4",
+        "read": "",
+        "rgb": [
+            139,
+            35,
+            35
+        ]
+    },
+    {
+        "value": "#ff8c69",
+        "name": "Salmon1",
+        "read": "",
+        "rgb": [
+            255,
+            140,
+            105
+        ]
+    },
+    {
+        "value": "#ee8262",
+        "name": "Salmon2",
+        "read": "",
+        "rgb": [
+            238,
+            130,
+            98
+        ]
+    },
+    {
+        "value": "#cd7054",
+        "name": "Salmon3",
+        "read": "",
+        "rgb": [
+            205,
+            112,
+            84
+        ]
+    },
+    {
+        "value": "#8b4c39",
+        "name": "Salmon4",
+        "read": "",
+        "rgb": [
+            139,
+            76,
+            57
+        ]
+    },
+    {
+        "value": "#ffa07a",
+        "name": "LightSalmon1",
+        "read": "",
+        "rgb": [
+            255,
+            160,
+            122
+        ]
+    },
+    {
+        "value": "#ee9572",
+        "name": "LightSalmon2",
+        "read": "",
+        "rgb": [
+            238,
+            149,
+            114
+        ]
+    },
+    {
+        "value": "#cd8162",
+        "name": "LightSalmon3",
+        "read": "",
+        "rgb": [
+            205,
+            129,
+            98
+        ]
+    },
+    {
+        "value": "#8b5742",
+        "name": "LightSalmon4",
+        "read": "",
+        "rgb": [
+            139,
+            87,
+            66
+        ]
+    },
+    {
+        "value": "#ffa500",
+        "name": "Orange1",
+        "read": "",
+        "rgb": [
+            255,
+            165,
+            0
+        ]
+    },
+    {
+        "value": "#ee9a00",
+        "name": "Orange2",
+        "read": "",
+        "rgb": [
+            238,
+            154,
+            0
+        ]
+    },
+    {
+        "value": "#cd8500",
+        "name": "Orange3",
+        "read": "",
+        "rgb": [
+            205,
+            133,
+            0
+        ]
+    },
+    {
+        "value": "#8b5a00",
+        "name": "Orange4",
+        "read": "",
+        "rgb": [
+            139,
+            90,
+            0
+        ]
+    },
+    {
+        "value": "#ff7f00",
+        "name": "DarkOrange1",
+        "read": "",
+        "rgb": [
+            255,
+            127,
+            0
+        ]
+    },
+    {
+        "value": "#ee7600",
+        "name": "DarkOrange2",
+        "read": "",
+        "rgb": [
+            238,
+            118,
+            0
+        ]
+    },
+    {
+        "value": "#cd6600",
+        "name": "DarkOrange3",
+        "read": "",
+        "rgb": [
+            205,
+            102,
+            0
+        ]
+    },
+    {
+        "value": "#8b4500",
+        "name": "DarkOrange4",
+        "read": "",
+        "rgb": [
+            139,
+            69,
+            0
+        ]
+    },
+    {
+        "value": "#ff7256",
+        "name": "Coral1",
+        "read": "",
+        "rgb": [
+            255,
+            114,
+            86
+        ]
+    },
+    {
+        "value": "#ee6a50",
+        "name": "Coral2",
+        "read": "",
+        "rgb": [
+            238,
+            106,
+            80
+        ]
+    },
+    {
+        "value": "#cd5b45",
+        "name": "Coral3",
+        "read": "",
+        "rgb": [
+            205,
+            91,
+            69
+        ]
+    },
+    {
+        "value": "#8b3e2f",
+        "name": "Coral4",
+        "read": "",
+        "rgb": [
+            139,
+            62,
+            47
+        ]
+    },
+    {
+        "value": "#ff6347",
+        "name": "Tomato1",
+        "read": "",
+        "rgb": [
+            255,
+            99,
+            71
+        ]
+    },
+    {
+        "value": "#ee5c42",
+        "name": "Tomato2",
+        "read": "",
+        "rgb": [
+            238,
+            92,
+            66
+        ]
+    },
+    {
+        "value": "#cd4f39",
+        "name": "Tomato3",
+        "read": "",
+        "rgb": [
+            205,
+            79,
+            57
+        ]
+    },
+    {
+        "value": "#8b3626",
+        "name": "Tomato4",
+        "read": "",
+        "rgb": [
+            139,
+            54,
+            38
+        ]
+    },
+    {
+        "value": "#ff4500",
+        "name": "OrangeRed1",
+        "read": "",
+        "rgb": [
+            255,
+            69,
+            0
+        ]
+    },
+    {
+        "value": "#ee4000",
+        "name": "OrangeRed2",
+        "read": "",
+        "rgb": [
+            238,
+            64,
+            0
+        ]
+    },
+    {
+        "value": "#cd3700",
+        "name": "OrangeRed3",
+        "read": "",
+        "rgb": [
+            205,
+            55,
+            0
+        ]
+    },
+    {
+        "value": "#8b2500",
+        "name": "OrangeRed4",
+        "read": "",
+        "rgb": [
+            139,
+            37,
+            0
+        ]
+    },
+    {
+        "value": "#ff0000",
+        "name": "Red1",
+        "read": "",
+        "rgb": [
+            255,
+            0,
+            0
+        ]
+    },
+    {
+        "value": "#ee0000",
+        "name": "Red2",
+        "read": "",
+        "rgb": [
+            238,
+            0,
+            0
+        ]
+    },
+    {
+        "value": "#cd0000",
+        "name": "Red3",
+        "read": "",
+        "rgb": [
+            205,
+            0,
+            0
+        ]
+    },
+    {
+        "value": "#8b0000",
+        "name": "Red4",
+        "read": "",
+        "rgb": [
+            139,
+            0,
+            0
+        ]
+    },
+    {
+        "value": "#ff1493",
+        "name": "DeepPink1",
+        "read": "",
+        "rgb": [
+            255,
+            20,
+            147
+        ]
+    },
+    {
+        "value": "#ee1289",
+        "name": "DeepPink2",
+        "read": "",
+        "rgb": [
+            238,
+            18,
+            137
+        ]
+    },
+    {
+        "value": "#cd1076",
+        "name": "DeepPink3",
+        "read": "",
+        "rgb": [
+            205,
+            16,
+            118
+        ]
+    },
+    {
+        "value": "#8b0a50",
+        "name": "DeepPink4",
+        "read": "",
+        "rgb": [
+            139,
+            10,
+            80
+        ]
+    },
+    {
+        "value": "#ff6eb4",
+        "name": "HotPink1",
+        "read": "",
+        "rgb": [
+            255,
+            110,
+            180
+        ]
+    },
+    {
+        "value": "#ee6aa7",
+        "name": "HotPink2",
+        "read": "",
+        "rgb": [
+            238,
+            106,
+            167
+        ]
+    },
+    {
+        "value": "#cd6090",
+        "name": "HotPink3",
+        "read": "",
+        "rgb": [
+            205,
+            96,
+            144
+        ]
+    },
+    {
+        "value": "#8b3a62",
+        "name": "HotPink4",
+        "read": "",
+        "rgb": [
+            139,
+            58,
+            98
+        ]
+    },
+    {
+        "value": "#ffb5c5",
+        "name": "Pink1",
+        "read": "",
+        "rgb": [
+            255,
+            181,
+            197
+        ]
+    },
+    {
+        "value": "#eea9b8",
+        "name": "Pink2",
+        "read": "",
+        "rgb": [
+            238,
+            169,
+            184
+        ]
+    },
+    {
+        "value": "#cd919e",
+        "name": "Pink3",
+        "read": "",
+        "rgb": [
+            205,
+            145,
+            158
+        ]
+    },
+    {
+        "value": "#8b636c",
+        "name": "Pink4",
+        "read": "",
+        "rgb": [
+            139,
+            99,
+            108
+        ]
+    },
+    {
+        "value": "#ffaeb9",
+        "name": "LightPink1",
+        "read": "",
+        "rgb": [
+            255,
+            174,
+            185
+        ]
+    },
+    {
+        "value": "#eea2ad",
+        "name": "LightPink2",
+        "read": "",
+        "rgb": [
+            238,
+            162,
+            173
+        ]
+    },
+    {
+        "value": "#cd8c95",
+        "name": "LightPink3",
+        "read": "",
+        "rgb": [
+            205,
+            140,
+            149
+        ]
+    },
+    {
+        "value": "#8b5f65",
+        "name": "LightPink4",
+        "read": "",
+        "rgb": [
+            139,
+            95,
+            101
+        ]
+    },
+    {
+        "value": "#ff82ab",
+        "name": "PaleVioletRed1",
+        "read": "",
+        "rgb": [
+            255,
+            130,
+            171
+        ]
+    },
+    {
+        "value": "#ee799f",
+        "name": "PaleVioletRed2",
+        "read": "",
+        "rgb": [
+            238,
+            121,
+            159
+        ]
+    },
+    {
+        "value": "#cd6889",
+        "name": "PaleVioletRed3",
+        "read": "",
+        "rgb": [
+            205,
+            104,
+            137
+        ]
+    },
+    {
+        "value": "#8b475d",
+        "name": "PaleVioletRed4",
+        "read": "",
+        "rgb": [
+            139,
+            71,
+            93
+        ]
+    },
+    {
+        "value": "#ff34b3",
+        "name": "Maroon1",
+        "read": "",
+        "rgb": [
+            255,
+            52,
+            179
+        ]
+    },
+    {
+        "value": "#ee30a7",
+        "name": "Maroon2",
+        "read": "",
+        "rgb": [
+            238,
+            48,
+            167
+        ]
+    },
+    {
+        "value": "#cd2990",
+        "name": "Maroon3",
+        "read": "",
+        "rgb": [
+            205,
+            41,
+            144
+        ]
+    },
+    {
+        "value": "#8b1c62",
+        "name": "Maroon4",
+        "read": "",
+        "rgb": [
+            139,
+            28,
+            98
+        ]
+    },
+    {
+        "value": "#ff3e96",
+        "name": "VioletRed1",
+        "read": "",
+        "rgb": [
+            255,
+            62,
+            150
+        ]
+    },
+    {
+        "value": "#ee3a8c",
+        "name": "VioletRed2",
+        "read": "",
+        "rgb": [
+            238,
+            58,
+            140
+        ]
+    },
+    {
+        "value": "#cd3278",
+        "name": "VioletRed3",
+        "read": "",
+        "rgb": [
+            205,
+            50,
+            120
+        ]
+    },
+    {
+        "value": "#8b2252",
+        "name": "VioletRed4",
+        "read": "",
+        "rgb": [
+            139,
+            34,
+            82
+        ]
+    },
+    {
+        "value": "#ff00ff",
+        "name": "Magenta1",
+        "read": "",
+        "rgb": [
+            255,
+            0,
+            255
+        ]
+    },
+    {
+        "value": "#ee00ee",
+        "name": "Magenta2",
+        "read": "",
+        "rgb": [
+            238,
+            0,
+            238
+        ]
+    },
+    {
+        "value": "#cd00cd",
+        "name": "Magenta3",
+        "read": "",
+        "rgb": [
+            205,
+            0,
+            205
+        ]
+    },
+    {
+        "value": "#8b008b",
+        "name": "Magenta4",
+        "read": "",
+        "rgb": [
+            139,
+            0,
+            139
+        ]
+    },
+    {
+        "value": "#ff83fa",
+        "name": "Orchid1",
+        "read": "",
+        "rgb": [
+            255,
+            131,
+            250
+        ]
+    },
+    {
+        "value": "#ee7ae9",
+        "name": "Orchid2",
+        "read": "",
+        "rgb": [
+            238,
+            122,
+            233
+        ]
+    },
+    {
+        "value": "#cd69c9",
+        "name": "Orchid3",
+        "read": "",
+        "rgb": [
+            205,
+            105,
+            201
+        ]
+    },
+    {
+        "value": "#8b4789",
+        "name": "Orchid4",
+        "read": "",
+        "rgb": [
+            139,
+            71,
+            137
+        ]
+    },
+    {
+        "value": "#ffbbff",
+        "name": "Plum1",
+        "read": "",
+        "rgb": [
+            255,
+            187,
+            255
+        ]
+    },
+    {
+        "value": "#eeaeee",
+        "name": "Plum2",
+        "read": "",
+        "rgb": [
+            238,
+            174,
+            238
+        ]
+    },
+    {
+        "value": "#cd96cd",
+        "name": "Plum3",
+        "read": "",
+        "rgb": [
+            205,
+            150,
+            205
+        ]
+    },
+    {
+        "value": "#8b668b",
+        "name": "Plum4",
+        "read": "",
+        "rgb": [
+            139,
+            102,
+            139
+        ]
+    },
+    {
+        "value": "#e066ff",
+        "name": "MediumOrchid1",
+        "read": "",
+        "rgb": [
+            224,
+            102,
+            255
+        ]
+    },
+    {
+        "value": "#d15fee",
+        "name": "MediumOrchid2",
+        "read": "",
+        "rgb": [
+            209,
+            95,
+            238
+        ]
+    },
+    {
+        "value": "#b452cd",
+        "name": "MediumOrchid3",
+        "read": "",
+        "rgb": [
+            180,
+            82,
+            205
+        ]
+    },
+    {
+        "value": "#7a378b",
+        "name": "MediumOrchid4",
+        "read": "",
+        "rgb": [
+            122,
+            55,
+            139
+        ]
+    },
+    {
+        "value": "#bf3eff",
+        "name": "DarkOrchid1",
+        "read": "",
+        "rgb": [
+            191,
+            62,
+            255
+        ]
+    },
+    {
+        "value": "#b23aee",
+        "name": "DarkOrchid2",
+        "read": "",
+        "rgb": [
+            178,
+            58,
+            238
+        ]
+    },
+    {
+        "value": "#9a32cd",
+        "name": "DarkOrchid3",
+        "read": "",
+        "rgb": [
+            154,
+            50,
+            205
+        ]
+    },
+    {
+        "value": "#68228b",
+        "name": "DarkOrchid4",
+        "read": "",
+        "rgb": [
+            104,
+            34,
+            139
+        ]
+    },
+    {
+        "value": "#9b30ff",
+        "name": "Purple1",
+        "read": "",
+        "rgb": [
+            155,
+            48,
+            255
+        ]
+    },
+    {
+        "value": "#912cee",
+        "name": "Purple2",
+        "read": "",
+        "rgb": [
+            145,
+            44,
+            238
+        ]
+    },
+    {
+        "value": "#7d26cd",
+        "name": "Purple3",
+        "read": "",
+        "rgb": [
+            125,
+            38,
+            205
+        ]
+    },
+    {
+        "value": "#551a8b",
+        "name": "Purple4",
+        "read": "",
+        "rgb": [
+            85,
+            26,
+            139
+        ]
+    },
+    {
+        "value": "#ab82ff",
+        "name": "MediumPurple1",
+        "read": "",
+        "rgb": [
+            171,
+            130,
+            255
+        ]
+    },
+    {
+        "value": "#9f79ee",
+        "name": "MediumPurple2",
+        "read": "",
+        "rgb": [
+            159,
+            121,
+            238
+        ]
+    },
+    {
+        "value": "#8968cd",
+        "name": "MediumPurple3",
+        "read": "",
+        "rgb": [
+            137,
+            104,
+            205
+        ]
+    },
+    {
+        "value": "#5d478b",
+        "name": "MediumPurple4",
+        "read": "",
+        "rgb": [
+            93,
+            71,
+            139
+        ]
+    },
+    {
+        "value": "#ffe1ff",
+        "name": "Thistle1",
+        "read": "",
+        "rgb": [
+            255,
+            225,
+            255
+        ]
+    },
+    {
+        "value": "#eed2ee",
+        "name": "Thistle2",
+        "read": "",
+        "rgb": [
+            238,
+            210,
+            238
+        ]
+    },
+    {
+        "value": "#cdb5cd",
+        "name": "Thistle3",
+        "read": "",
+        "rgb": [
+            205,
+            181,
+            205
+        ]
+    },
+    {
+        "value": "#8b7b8b",
+        "name": "Thistle4",
+        "read": "",
+        "rgb": [
+            139,
+            123,
+            139
+        ]
+    },
+    {
+        "value": "#1c1c1c",
+        "name": "grey11",
+        "read": "",
+        "rgb": [
+            28,
+            28,
+            28
+        ]
+    },
+    {
+        "value": "#363636",
+        "name": "grey21",
+        "read": "",
+        "rgb": [
+            54,
+            54,
+            54
+        ]
+    },
+    {
+        "value": "#4f4f4f",
+        "name": "grey31",
+        "read": "",
+        "rgb": [
+            79,
+            79,
+            79
+        ]
+    },
+    {
+        "value": "#696969",
+        "name": "grey41",
+        "read": "",
+        "rgb": [
+            105,
+            105,
+            105
+        ]
+    },
+    {
+        "value": "#828282",
+        "name": "grey51",
+        "read": "",
+        "rgb": [
+            130,
+            130,
+            130
+        ]
+    },
+    {
+        "value": "#9c9c9c",
+        "name": "grey61",
+        "read": "",
+        "rgb": [
+            156,
+            156,
+            156
+        ]
+    },
+    {
+        "value": "#b5b5b5",
+        "name": "grey71",
+        "read": "",
+        "rgb": [
+            181,
+            181,
+            181
+        ]
+    },
+    {
+        "value": "#cfcfcf",
+        "name": "gray81",
+        "read": "",
+        "rgb": [
+            207,
+            207,
+            207
+        ]
+    },
+    {
+        "value": "#e8e8e8",
+        "name": "gray91",
+        "read": "",
+        "rgb": [
+            232,
+            232,
+            232
+        ]
+    },
+    {
+        "value": "#a9a9a9",
+        "name": "DarkGrey",
+        "read": "",
+        "rgb": [
+            169,
+            169,
+            169
+        ]
+    },
+    {
+        "value": "#00008b",
+        "name": "DarkBlue",
+        "read": "",
+        "rgb": [
+            0,
+            0,
+            139
+        ]
+    },
+    {
+        "value": "#008b8b",
+        "name": "DarkCyan",
+        "read": "",
+        "rgb": [
+            0,
+            139,
+            139
+        ]
+    },
+    {
+        "value": "#8b008b",
+        "name": "DarkMagenta",
+        "read": "",
+        "rgb": [
+            139,
+            0,
+            139
+        ]
+    },
+    {
+        "value": "#8b0000",
+        "name": "DarkRed",
+        "read": "",
+        "rgb": [
+            139,
+            0,
+            0
+        ]
+    },
+    {
+        "value": "#90ee90",
+        "name": "LightGreen",
+        "read": "",
+        "rgb": [
+            144,
+            238,
+            144
+        ]
+    }
+]

@@ -1,0 +1,1402 @@
+[
+    {
+        "value": "#ffb6c1",
+        "name": "LightPink",
+        "read": "浅粉红",
+        "rgb": [
+            255,
+            182,
+            193
+        ]
+    },
+    {
+        "value": "#ffc0cb",
+        "name": "Pink",
+        "read": "粉红",
+        "rgb": [
+            255,
+            192,
+            203
+        ]
+    },
+    {
+        "value": "#dc143c",
+        "name": "Crimson",
+        "read": "深红(猩红)",
+        "rgb": [
+            220,
+            20,
+            60
+        ]
+    },
+    {
+        "value": "#fff0f5",
+        "name": "LavenderBlush",
+        "read": "淡紫红",
+        "rgb": [
+            255,
+            240,
+            245
+        ]
+    },
+    {
+        "value": "#db7093",
+        "name": "PaleVioletRed",
+        "read": "弱紫罗兰红",
+        "rgb": [
+            219,
+            112,
+            147
+        ]
+    },
+    {
+        "value": "#ff69b4",
+        "name": "HotPink",
+        "read": "热情的粉红",
+        "rgb": [
+            255,
+            105,
+            180
+        ]
+    },
+    {
+        "value": "#ff1493",
+        "name": "DeepPink",
+        "read": "深粉红",
+        "rgb": [
+            255,
+            20,
+            147
+        ]
+    },
+    {
+        "value": "#c71585",
+        "name": "MediumVioletRed",
+        "read": "中紫罗兰红",
+        "rgb": [
+            199,
+            21,
+            133
+        ]
+    },
+    {
+        "value": "#da70d6",
+        "name": "Orchid",
+        "read": "暗紫色(兰花紫)",
+        "rgb": [
+            218,
+            112,
+            214
+        ]
+    },
+    {
+        "value": "#d8bfd8",
+        "name": "Thistle",
+        "read": "蓟色",
+        "rgb": [
+            216,
+            191,
+            216
+        ]
+    },
+    {
+        "value": "#dda0dd",
+        "name": "Plum",
+        "read": "洋李色(李子紫)",
+        "rgb": [
+            221,
+            160,
+            221
+        ]
+    },
+    {
+        "value": "#ee82ee",
+        "name": "Violet",
+        "read": "紫罗兰",
+        "rgb": [
+            238,
+            130,
+            238
+        ]
+    },
+    {
+        "value": "#ff00ff",
+        "name": "Magenta",
+        "read": "洋红(玫瑰红)",
+        "rgb": [
+            255,
+            0,
+            255
+        ]
+    },
+    {
+        "value": "#ff00ff",
+        "name": "Fuchsia",
+        "read": "紫红(灯笼海棠)",
+        "rgb": [
+            255,
+            0,
+            255
+        ]
+    },
+    {
+        "value": "#8b008b",
+        "name": "DarkMagenta",
+        "read": "深洋红",
+        "rgb": [
+            139,
+            0,
+            139
+        ]
+    },
+    {
+        "value": "#800080",
+        "name": "Purple",
+        "read": "紫色",
+        "rgb": [
+            128,
+            0,
+            128
+        ]
+    },
+    {
+        "value": "#ba55d3",
+        "name": "MediumOrchid",
+        "read": "中兰花紫",
+        "rgb": [
+            186,
+            85,
+            211
+        ]
+    },
+    {
+        "value": "#9400d3",
+        "name": "DarkViolet",
+        "read": "暗紫罗兰",
+        "rgb": [
+            148,
+            0,
+            211
+        ]
+    },
+    {
+        "value": "#9932cc",
+        "name": "DarkOrchid",
+        "read": "暗兰花紫",
+        "rgb": [
+            153,
+            50,
+            204
+        ]
+    },
+    {
+        "value": "#4b0082",
+        "name": "Indigo",
+        "read": "靛青/紫兰色",
+        "rgb": [
+            75,
+            0,
+            130
+        ]
+    },
+    {
+        "value": "#8a2be2",
+        "name": "BlueViolet",
+        "read": "蓝紫罗兰",
+        "rgb": [
+            138,
+            43,
+            226
+        ]
+    },
+    {
+        "value": "#9370db",
+        "name": "MediumPurple",
+        "read": "中紫色",
+        "rgb": [
+            147,
+            112,
+            219
+        ]
+    },
+    {
+        "value": "#7b68ee",
+        "name": "MediumSlateBlue",
+        "read": "中暗蓝色(中板岩蓝)",
+        "rgb": [
+            123,
+            104,
+            238
+        ]
+    },
+    {
+        "value": "#6a5acd",
+        "name": "SlateBlue",
+        "read": "石蓝色(板岩蓝)",
+        "rgb": [
+            106,
+            90,
+            205
+        ]
+    },
+    {
+        "value": "#483d8b",
+        "name": "DarkSlateBlue",
+        "read": "暗灰蓝色(暗板岩蓝)",
+        "rgb": [
+            72,
+            61,
+            139
+        ]
+    },
+    {
+        "value": "#e6e6fa",
+        "name": "Lavender",
+        "read": "淡紫色(熏衣草淡紫)",
+        "rgb": [
+            230,
+            230,
+            250
+        ]
+    },
+    {
+        "value": "#f8f8ff",
+        "name": "GhostWhite",
+        "read": "幽灵白",
+        "rgb": [
+            248,
+            248,
+            255
+        ]
+    },
+    {
+        "value": "#0000ff",
+        "name": "Blue",
+        "read": "纯蓝",
+        "rgb": [
+            0,
+            0,
+            255
+        ]
+    },
+    {
+        "value": "#0000cd",
+        "name": "MediumBlue",
+        "read": "中蓝色",
+        "rgb": [
+            0,
+            0,
+            205
+        ]
+    },
+    {
+        "value": "#191970",
+        "name": "MidnightBlue",
+        "read": "午夜蓝",
+        "rgb": [
+            25,
+            25,
+            112
+        ]
+    },
+    {
+        "value": "#00008b",
+        "name": "DarkBlue",
+        "read": "暗蓝色",
+        "rgb": [
+            0,
+            0,
+            139
+        ]
+    },
+    {
+        "value": "#000080",
+        "name": "Navy",
+        "read": "海军蓝",
+        "rgb": [
+            0,
+            0,
+            128
+        ]
+    },
+    {
+        "value": "#4169e1",
+        "name": "RoyalBlue",
+        "read": "皇家蓝/宝蓝",
+        "rgb": [
+            65,
+            105,
+            225
+        ]
+    },
+    {
+        "value": "#6495ed",
+        "name": "CornflowerBlue",
+        "read": "矢车菊蓝",
+        "rgb": [
+            100,
+            149,
+            237
+        ]
+    },
+    {
+        "value": "#b0c4de",
+        "name": "LightSteelBlue",
+        "read": "亮钢蓝",
+        "rgb": [
+            176,
+            196,
+            222
+        ]
+    },
+    {
+        "value": "#778899",
+        "name": "LightSlateGray",
+        "read": "亮蓝灰(亮石板灰)",
+        "rgb": [
+            119,
+            136,
+            153
+        ]
+    },
+    {
+        "value": "#708090",
+        "name": "SlateGray",
+        "read": "灰石色(石板灰)",
+        "rgb": [
+            112,
+            128,
+            144
+        ]
+    },
+    {
+        "value": "#1e90ff",
+        "name": "DodgerBlue",
+        "read": "闪兰色(道奇蓝)",
+        "rgb": [
+            30,
+            144,
+            255
+        ]
+    },
+    {
+        "value": "#f0f8ff",
+        "name": "AliceBlue",
+        "read": "爱丽丝蓝",
+        "rgb": [
+            240,
+            248,
+            255
+        ]
+    },
+    {
+        "value": "#4682b4",
+        "name": "SteelBlue",
+        "read": "钢蓝/铁青",
+        "rgb": [
+            70,
+            130,
+            180
+        ]
+    },
+    {
+        "value": "#87cefa",
+        "name": "LightSkyBlue",
+        "read": "亮天蓝色",
+        "rgb": [
+            135,
+            206,
+            250
+        ]
+    },
+    {
+        "value": "#87ceeb",
+        "name": "SkyBlue",
+        "read": "天蓝色",
+        "rgb": [
+            135,
+            206,
+            235
+        ]
+    },
+    {
+        "value": "#00bfff",
+        "name": "DeepSkyBlue",
+        "read": "深天蓝",
+        "rgb": [
+            0,
+            191,
+            255
+        ]
+    },
+    {
+        "value": "#add8e6",
+        "name": "LightBlue",
+        "read": "亮蓝",
+        "rgb": [
+            173,
+            216,
+            230
+        ]
+    },
+    {
+        "value": "#b0e0e6",
+        "name": "PowderBlue",
+        "read": "粉蓝色(火药青)",
+        "rgb": [
+            176,
+            224,
+            230
+        ]
+    },
+    {
+        "value": "#5f9ea0",
+        "name": "CadetBlue",
+        "read": "军兰色(军服蓝)",
+        "rgb": [
+            95,
+            158,
+            160
+        ]
+    },
+    {
+        "value": "#f0ffff",
+        "name": "Azure",
+        "read": "蔚蓝色",
+        "rgb": [
+            240,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#e0ffff",
+        "name": "LightCyan",
+        "read": "淡青色",
+        "rgb": [
+            224,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#afeeee",
+        "name": "PaleTurquoise",
+        "read": "弱绿宝石",
+        "rgb": [
+            175,
+            238,
+            238
+        ]
+    },
+    {
+        "value": "#00ffff",
+        "name": "Cyan",
+        "read": "青色",
+        "rgb": [
+            0,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#00ffff",
+        "name": "Aqua",
+        "read": "浅绿色(水色)",
+        "rgb": [
+            0,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#00ced1",
+        "name": "DarkTurquoise",
+        "read": "暗绿宝石",
+        "rgb": [
+            0,
+            206,
+            209
+        ]
+    },
+    {
+        "value": "#2f4f4f",
+        "name": "DarkSlateGray",
+        "read": "暗瓦灰色(暗石板灰)",
+        "rgb": [
+            47,
+            79,
+            79
+        ]
+    },
+    {
+        "value": "#008b8b",
+        "name": "DarkCyan",
+        "read": "暗青色",
+        "rgb": [
+            0,
+            139,
+            139
+        ]
+    },
+    {
+        "value": "#008080",
+        "name": "Teal",
+        "read": "水鸭色",
+        "rgb": [
+            0,
+            128,
+            128
+        ]
+    },
+    {
+        "value": "#48d1cc",
+        "name": "MediumTurquoise",
+        "read": "中绿宝石",
+        "rgb": [
+            72,
+            209,
+            204
+        ]
+    },
+    {
+        "value": "#20b2aa",
+        "name": "LightSeaGreen",
+        "read": "浅海洋绿",
+        "rgb": [
+            32,
+            178,
+            170
+        ]
+    },
+    {
+        "value": "#40e0d0",
+        "name": "Turquoise",
+        "read": "绿宝石",
+        "rgb": [
+            64,
+            224,
+            208
+        ]
+    },
+    {
+        "value": "#7fffd4",
+        "name": "Aquamarine",
+        "read": "宝石碧绿",
+        "rgb": [
+            127,
+            255,
+            212
+        ]
+    },
+    {
+        "value": "#66cdaa",
+        "name": "MediumAquamarine",
+        "read": "中宝石碧绿",
+        "rgb": [
+            102,
+            205,
+            170
+        ]
+    },
+    {
+        "value": "#00fa9a",
+        "name": "MediumSpringGreen",
+        "read": "中春绿色",
+        "rgb": [
+            0,
+            250,
+            154
+        ]
+    },
+    {
+        "value": "#f5fffa",
+        "name": "MintCream",
+        "read": "薄荷奶油",
+        "rgb": [
+            245,
+            255,
+            250
+        ]
+    },
+    {
+        "value": "#00ff7f",
+        "name": "SpringGreen",
+        "read": "春绿色",
+        "rgb": [
+            0,
+            255,
+            127
+        ]
+    },
+    {
+        "value": "#3cb371",
+        "name": "MediumSeaGreen",
+        "read": "中海洋绿",
+        "rgb": [
+            60,
+            179,
+            113
+        ]
+    },
+    {
+        "value": "#2e8b57",
+        "name": "SeaGreen",
+        "read": "海洋绿",
+        "rgb": [
+            46,
+            139,
+            87
+        ]
+    },
+    {
+        "value": "#f0fff0",
+        "name": "Honeydew",
+        "read": "蜜色(蜜瓜色)",
+        "rgb": [
+            240,
+            255,
+            240
+        ]
+    },
+    {
+        "value": "#90ee90",
+        "name": "LightGreen",
+        "read": "淡绿色",
+        "rgb": [
+            144,
+            238,
+            144
+        ]
+    },
+    {
+        "value": "#98fb98",
+        "name": "PaleGreen",
+        "read": "弱绿色",
+        "rgb": [
+            152,
+            251,
+            152
+        ]
+    },
+    {
+        "value": "#8fbc8f",
+        "name": "DarkSeaGreen",
+        "read": "暗海洋绿",
+        "rgb": [
+            143,
+            188,
+            143
+        ]
+    },
+    {
+        "value": "#32cd32",
+        "name": "LimeGreen",
+        "read": "闪光深绿",
+        "rgb": [
+            50,
+            205,
+            50
+        ]
+    },
+    {
+        "value": "#00ff00",
+        "name": "Lime",
+        "read": "闪光绿",
+        "rgb": [
+            0,
+            255,
+            0
+        ]
+    },
+    {
+        "value": "#228b22",
+        "name": "ForestGreen",
+        "read": "森林绿",
+        "rgb": [
+            34,
+            139,
+            34
+        ]
+    },
+    {
+        "value": "#008000",
+        "name": "Green",
+        "read": "纯绿",
+        "rgb": [
+            0,
+            128,
+            0
+        ]
+    },
+    {
+        "value": "#006400",
+        "name": "DarkGreen",
+        "read": "暗绿色",
+        "rgb": [
+            0,
+            100,
+            0
+        ]
+    },
+    {
+        "value": "#7fff00",
+        "name": "Chartreuse",
+        "read": "黄绿色(查特酒绿)",
+        "rgb": [
+            127,
+            255,
+            0
+        ]
+    },
+    {
+        "value": "#7cfc00",
+        "name": "LawnGreen",
+        "read": "草绿色(草坪绿_",
+        "rgb": [
+            124,
+            252,
+            0
+        ]
+    },
+    {
+        "value": "#adff2f",
+        "name": "GreenYellow",
+        "read": "绿黄色",
+        "rgb": [
+            173,
+            255,
+            47
+        ]
+    },
+    {
+        "value": "#556b2f",
+        "name": "DarkOliveGreen",
+        "read": "暗橄榄绿",
+        "rgb": [
+            85,
+            107,
+            47
+        ]
+    },
+    {
+        "value": "#9acd32",
+        "name": "YellowGreen",
+        "read": "黄绿色",
+        "rgb": [
+            154,
+            205,
+            50
+        ]
+    },
+    {
+        "value": "#6b8e23",
+        "name": "OliveDrab",
+        "read": "橄榄褐色",
+        "rgb": [
+            107,
+            142,
+            35
+        ]
+    },
+    {
+        "value": "#f5f5dc",
+        "name": "Beige",
+        "read": "米色/灰棕色",
+        "rgb": [
+            245,
+            245,
+            220
+        ]
+    },
+    {
+        "value": "#fafad2",
+        "name": "LightGoldenrodYellow",
+        "read": "亮菊黄",
+        "rgb": [
+            250,
+            250,
+            210
+        ]
+    },
+    {
+        "value": "#fffff0",
+        "name": "Ivory",
+        "read": "象牙色",
+        "rgb": [
+            255,
+            255,
+            240
+        ]
+    },
+    {
+        "value": "#ffffe0",
+        "name": "LightYellow",
+        "read": "浅黄色",
+        "rgb": [
+            255,
+            255,
+            224
+        ]
+    },
+    {
+        "value": "#ffff00",
+        "name": "Yellow",
+        "read": "纯黄",
+        "rgb": [
+            255,
+            255,
+            0
+        ]
+    },
+    {
+        "value": "#808000",
+        "name": "Olive",
+        "read": "橄榄",
+        "rgb": [
+            128,
+            128,
+            0
+        ]
+    },
+    {
+        "value": "#bdb76b",
+        "name": "DarkKhaki",
+        "read": "暗黄褐色(深卡叽布)",
+        "rgb": [
+            189,
+            183,
+            107
+        ]
+    },
+    {
+        "value": "#fffacd",
+        "name": "LemonChiffon",
+        "read": "柠檬绸",
+        "rgb": [
+            255,
+            250,
+            205
+        ]
+    },
+    {
+        "value": "#eee8aa",
+        "name": "PaleGoldenrod",
+        "read": "灰菊黄(苍麒麟色)",
+        "rgb": [
+            238,
+            232,
+            170
+        ]
+    },
+    {
+        "value": "#f0e68c",
+        "name": "Khaki",
+        "read": "黄褐色(卡叽布)",
+        "rgb": [
+            240,
+            230,
+            140
+        ]
+    },
+    {
+        "value": "#ffd700",
+        "name": "Gold",
+        "read": "金色",
+        "rgb": [
+            255,
+            215,
+            0
+        ]
+    },
+    {
+        "value": "#fff8dc",
+        "name": "Cornsilk",
+        "read": "玉米丝色",
+        "rgb": [
+            255,
+            248,
+            220
+        ]
+    },
+    {
+        "value": "#daa520",
+        "name": "Goldenrod",
+        "read": "金菊黄",
+        "rgb": [
+            218,
+            165,
+            32
+        ]
+    },
+    {
+        "value": "#b8860b",
+        "name": "DarkGoldenrod",
+        "read": "暗金菊黄",
+        "rgb": [
+            184,
+            134,
+            11
+        ]
+    },
+    {
+        "value": "#fffaf0",
+        "name": "FloralWhite",
+        "read": "花的白色",
+        "rgb": [
+            255,
+            250,
+            240
+        ]
+    },
+    {
+        "value": "#fdf5e6",
+        "name": "OldLace",
+        "read": "老花色(旧蕾丝)",
+        "rgb": [
+            253,
+            245,
+            230
+        ]
+    },
+    {
+        "value": "#f5deb3",
+        "name": "Wheat",
+        "read": "浅黄色(小麦色)",
+        "rgb": [
+            245,
+            222,
+            179
+        ]
+    },
+    {
+        "value": "#ffe4b5",
+        "name": "Moccasin",
+        "read": "鹿皮色(鹿皮靴)",
+        "rgb": [
+            255,
+            228,
+            181
+        ]
+    },
+    {
+        "value": "#ffa500",
+        "name": "Orange",
+        "read": "橙色",
+        "rgb": [
+            255,
+            165,
+            0
+        ]
+    },
+    {
+        "value": "#ffefd5",
+        "name": "PapayaWhip",
+        "read": "番木色(番木瓜)",
+        "rgb": [
+            255,
+            239,
+            213
+        ]
+    },
+    {
+        "value": "#ffebcd",
+        "name": "BlanchedAlmond",
+        "read": "白杏色",
+        "rgb": [
+            255,
+            235,
+            205
+        ]
+    },
+    {
+        "value": "#ffdead",
+        "name": "NavajoWhite",
+        "read": "纳瓦白(土著白)",
+        "rgb": [
+            255,
+            222,
+            173
+        ]
+    },
+    {
+        "value": "#faebd7",
+        "name": "AntiqueWhite",
+        "read": "古董白",
+        "rgb": [
+            250,
+            235,
+            215
+        ]
+    },
+    {
+        "value": "#d2b48c",
+        "name": "Tan",
+        "read": "茶色",
+        "rgb": [
+            210,
+            180,
+            140
+        ]
+    },
+    {
+        "value": "#deb887",
+        "name": "BurlyWood",
+        "read": "硬木色",
+        "rgb": [
+            222,
+            184,
+            135
+        ]
+    },
+    {
+        "value": "#ffe4c4",
+        "name": "Bisque",
+        "read": "陶坯黄",
+        "rgb": [
+            255,
+            228,
+            196
+        ]
+    },
+    {
+        "value": "#ff8c00",
+        "name": "DarkOrange",
+        "read": "深橙色",
+        "rgb": [
+            255,
+            140,
+            0
+        ]
+    },
+    {
+        "value": "#faf0e6",
+        "name": "Linen",
+        "read": "亚麻布",
+        "rgb": [
+            250,
+            240,
+            230
+        ]
+    },
+    {
+        "value": "#cd853f",
+        "name": "Peru",
+        "read": "秘鲁色",
+        "rgb": [
+            205,
+            133,
+            63
+        ]
+    },
+    {
+        "value": "#ffdab9",
+        "name": "PeachPuff",
+        "read": "桃肉色",
+        "rgb": [
+            255,
+            218,
+            185
+        ]
+    },
+    {
+        "value": "#f4a460",
+        "name": "SandyBrown",
+        "read": "沙棕色",
+        "rgb": [
+            244,
+            164,
+            96
+        ]
+    },
+    {
+        "value": "#d2691e",
+        "name": "Chocolate",
+        "read": "巧克力色",
+        "rgb": [
+            210,
+            105,
+            30
+        ]
+    },
+    {
+        "value": "#8b4513",
+        "name": "SaddleBrown",
+        "read": "重褐色(马鞍棕色)",
+        "rgb": [
+            139,
+            69,
+            19
+        ]
+    },
+    {
+        "value": "#fff5ee",
+        "name": "Seashell",
+        "read": "海贝壳",
+        "rgb": [
+            255,
+            245,
+            238
+        ]
+    },
+    {
+        "value": "#a0522d",
+        "name": "Sienna",
+        "read": "黄土赭色",
+        "rgb": [
+            160,
+            82,
+            45
+        ]
+    },
+    {
+        "value": "#ffa07a",
+        "name": "LightSalmon",
+        "read": "浅鲑鱼肉色",
+        "rgb": [
+            255,
+            160,
+            122
+        ]
+    },
+    {
+        "value": "#ff7f50",
+        "name": "Coral",
+        "read": "珊瑚",
+        "rgb": [
+            255,
+            127,
+            80
+        ]
+    },
+    {
+        "value": "#ff4500",
+        "name": "OrangeRed",
+        "read": "橙红色",
+        "rgb": [
+            255,
+            69,
+            0
+        ]
+    },
+    {
+        "value": "#e9967a",
+        "name": "DarkSalmon",
+        "read": "深鲜肉/鲑鱼色",
+        "rgb": [
+            233,
+            150,
+            122
+        ]
+    },
+    {
+        "value": "#ff6347",
+        "name": "Tomato",
+        "read": "番茄红",
+        "rgb": [
+            255,
+            99,
+            71
+        ]
+    },
+    {
+        "value": "#ffe4e1",
+        "name": "MistyRose",
+        "read": "浅玫瑰色(薄雾玫瑰)",
+        "rgb": [
+            255,
+            228,
+            225
+        ]
+    },
+    {
+        "value": "#fa8072",
+        "name": "Salmon",
+        "read": "鲜肉/鲑鱼色",
+        "rgb": [
+            250,
+            128,
+            114
+        ]
+    },
+    {
+        "value": "#fffafa",
+        "name": "Snow",
+        "read": "雪白色",
+        "rgb": [
+            255,
+            250,
+            250
+        ]
+    },
+    {
+        "value": "#f08080",
+        "name": "LightCoral",
+        "read": "淡珊瑚色",
+        "rgb": [
+            240,
+            128,
+            128
+        ]
+    },
+    {
+        "value": "#bc8f8f",
+        "name": "RosyBrown",
+        "read": "玫瑰棕色",
+        "rgb": [
+            188,
+            143,
+            143
+        ]
+    },
+    {
+        "value": "#cd5c5c",
+        "name": "IndianRed",
+        "read": "印度红",
+        "rgb": [
+            205,
+            92,
+            92
+        ]
+    },
+    {
+        "value": "#ff0000",
+        "name": "Red",
+        "read": "纯红",
+        "rgb": [
+            255,
+            0,
+            0
+        ]
+    },
+    {
+        "value": "#a52a2a",
+        "name": "Brown",
+        "read": "棕色",
+        "rgb": [
+            165,
+            42,
+            42
+        ]
+    },
+    {
+        "value": "#b22222",
+        "name": "FireBrick",
+        "read": "火砖色(耐火砖)",
+        "rgb": [
+            178,
+            34,
+            34
+        ]
+    },
+    {
+        "value": "#8b0000",
+        "name": "DarkRed",
+        "read": "深红色",
+        "rgb": [
+            139,
+            0,
+            0
+        ]
+    },
+    {
+        "value": "#800000",
+        "name": "Maroon",
+        "read": "栗色",
+        "rgb": [
+            128,
+            0,
+            0
+        ]
+    },
+    {
+        "value": "#ffffff",
+        "name": "White",
+        "read": "纯白",
+        "rgb": [
+            255,
+            255,
+            255
+        ]
+    },
+    {
+        "value": "#f5f5f5",
+        "name": "WhiteSmoke",
+        "read": "白烟",
+        "rgb": [
+            245,
+            245,
+            245
+        ]
+    },
+    {
+        "value": "#dcdcdc",
+        "name": "Gainsboro",
+        "read": "淡灰色(庚斯博罗灰)",
+        "rgb": [
+            220,
+            220,
+            220
+        ]
+    },
+    {
+        "value": "#d3d3d3",
+        "name": "LightGrey",
+        "read": "浅灰色",
+        "rgb": [
+            211,
+            211,
+            211
+        ]
+    },
+    {
+        "value": "#c0c0c0",
+        "name": "Silver",
+        "read": "银灰色",
+        "rgb": [
+            192,
+            192,
+            192
+        ]
+    },
+    {
+        "value": "#a9a9a9",
+        "name": "DarkGray",
+        "read": "深灰色",
+        "rgb": [
+            169,
+            169,
+            169
+        ]
+    },
+    {
+        "value": "#808080",
+        "name": "Gray",
+        "read": "灰色",
+        "rgb": [
+            128,
+            128,
+            128
+        ]
+    },
+    {
+        "value": "#696969",
+        "name": "DimGray",
+        "read": "暗淡的灰色",
+        "rgb": [
+            105,
+            105,
+            105
+        ]
+    },
+    {
+        "value": "#000000",
+        "name": "Black",
+        "read": "纯黑",
+        "rgb": [
+            0,
+            0,
+            0
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <ApplicationIcon>1.ico</ApplicationIcon>
+    <Authors>sakura6264</Authors>
+    <Company>None</Company>
+    <PackageIcon>1.ico</PackageIcon>
+    <PackageIconUrl />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="opencv_lib\**" />
+    <EmbeddedResource Remove="opencv_lib\**" />
+    <None Remove="opencv_lib\**" />
+    <None Include="1.ico">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <Page Remove="opencv_lib\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="1.ico" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="1.ico" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,223 @@
+﻿<Window x:Class="ColorLook.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ColorLook"
+        mc:Ignorable="d"
+        Title="ColorLook" Height="400" Width="700" Icon="/1.ico">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="1*"/>
+            <RowDefinition Height="3*"/>
+            <RowDefinition Height="1*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid>
+            <Label Content="预设颜色表" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Row="1" Grid.RowSpan="6">
+            <ListBox x:Name="item_colorlist" Margin="10,10,10,10" SelectionChanged="item_colorlist_SelectionChanged" />
+        </Grid>
+        <Grid Grid.Row="7">
+            <Label Content="压缩级别：" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Right" VerticalContentAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Column="1">
+            <Label Content="渐变模式：" HorizontalAlignment="Center" VerticalAlignment="Center" Width="116" Height="39" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="1">
+            <ComboBox x:Name="item_colormod" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="25" SelectionChanged="item_colormod_SelectionChanged">
+                <ComboBoxItem Content="单色"/>
+                <ComboBoxItem Content="线性渐变"/>
+                <ComboBoxItem Content="中心渐变"/>
+            </ComboBox>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="2">
+            <Label Content="颜色集：" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="3">
+            <ComboBox x:Name="item_colorpack" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="25" SelectionChanged="item_colorpack_SelectionChanged"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="4">
+            <Button x:Name="item_colorshow" Content="预览" HorizontalAlignment="Center" VerticalAlignment="Center" Height="20" Width="100" Click="item_colorshow_Click"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="5">
+            <Button x:Name="item_color_copy" Content="复制HEX" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="20" Click="item_color_copy_Click"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="6">
+            <Rectangle x:Name="item_rect0" HorizontalAlignment="Center" Stroke="Black" VerticalAlignment="Center" Height="95" Width="95"/>
+        </Grid>
+        <Grid Grid.Column="1" Grid.Row="7">
+            <TextBox x:Name="item_compresslevel" HorizontalAlignment="Center" VerticalAlignment="Center" Height="20" Width="100" MaxLength="3" TextWrapping="NoWrap" TextChanged="item_compresslevel_TextChanged" IsEnabled="False"/>
+        </Grid>
+        <Grid Grid.Column="2">
+            <Label Content="颜色1：" HorizontalAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Column="2" Grid.Row="1">
+            <CheckBox x:Name="item_color1_customize" Content="自定义" HorizontalAlignment="Center" VerticalAlignment="Center" Height="20" Width="80" IsEnabled="False" Checked="item_color1_customize_Checked"/>
+        </Grid>
+        <Grid Grid.Column="2" Grid.Row="2">
+            <Label Content="图片大小：" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Column="2" Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="X:" HorizontalAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+            <TextBox x:Name="item_x" Grid.Column="1" HorizontalAlignment="Center" TextWrapping="NoWrap" VerticalAlignment="Center" Width="70" Height="20" MaxLength="4" TextChanged="item_x_TextChanged" Text="600"/>
+        </Grid>
+        <Grid Grid.Column="2" Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="Y:" HorizontalAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+            <TextBox x:Name="item_y" Grid.Column="1" HorizontalAlignment="Center" TextWrapping="NoWrap" VerticalAlignment="Center" Width="70" Height="20" MaxLength="4" TextChanged="item_y_TextChanged" Text="600"/>
+        </Grid>
+        <Grid Grid.Column="2" Grid.Row="5">
+            <Label Content="颜色信息：" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Column="2" Grid.Row="6">
+            <TextBox x:Name="item_colorinfo" HorizontalAlignment="Center" TextWrapping="Wrap" VerticalAlignment="Center" Width="95" Height="95" IsReadOnly="True"/>
+        </Grid>
+        <Grid Grid.Column="2" Grid.Row="7">
+            <Label Content="文件格式：" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Right" VerticalContentAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Column="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="#" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="item_color1" HorizontalAlignment="Left" TextWrapping="NoWrap" VerticalAlignment="Center" Width="85" Height="20" Grid.Column="1" IsReadOnly="True" MaxLength="6" TextChanged="item_color1_TextChanged"/>
+        </Grid>
+        <Grid Grid.Column="3" Grid.Row="1">
+            <Button x:Name="item_color1_fill" Content="使用颜色" HorizontalAlignment="Center" VerticalAlignment="Center" Height="20" Width="100" IsEnabled="False" Click="item_color1_fill_Click"/>
+        </Grid>
+        <Grid Grid.Column="3" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="R:" HorizontalAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+            <TextBox x:Name="item_color1_r" Grid.Column="1" HorizontalAlignment="Center" TextWrapping="NoWrap" VerticalAlignment="Center" Width="70" Height="20" MaxLength="3" IsReadOnly="True" TextChanged="item_color1_r_TextChanged"/>
+        </Grid>
+        <Grid Grid.Column="3" Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="G:" HorizontalAlignment="Center" VerticalAlignment="Center" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+            <TextBox x:Name="item_color1_g" Grid.Column="1" HorizontalAlignment="Center" TextWrapping="NoWrap" VerticalAlignment="Center" Width="70" Height="20" MaxLength="3" IsReadOnly="True" TextChanged="item_color1_g_TextChanged"/>
+        </Grid>
+        <Grid Grid.Column="3" Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="B:" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="item_color1_b" Grid.Column="1" HorizontalAlignment="Center" TextWrapping="NoWrap" VerticalAlignment="Center" Width="70" Height="20" MaxLength="3" IsReadOnly="True" TextChanged="item_color1_b_TextChanged"/>
+        </Grid>
+        <Grid Grid.Column="3" Grid.Row="5">
+            <Button x:Name="item_color1_show" Content="单色预览" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="20" IsEnabled="False" Click="item_color1_show_Click"/>
+        </Grid>
+        <Grid Grid.Column="3" Grid.Row="6">
+            <Rectangle x:Name="item_rect1" HorizontalAlignment="Center" Stroke="Black" VerticalAlignment="Center" Height="95" Width="95"/>
+        </Grid>
+        <Grid Grid.Column="3" Grid.Row="7">
+            <ComboBox x:Name="item_filetype" HorizontalAlignment="Center" VerticalAlignment="Center" Height="25" Width="100" SelectionChanged="item_filetype_SelectionChanged">
+                <ComboBoxItem Content="*.png"/>
+                <ComboBoxItem Content="*.jpeg"/>
+                <ComboBoxItem Content="*.bmp"/>
+            </ComboBox>
+        </Grid>
+        <Grid Grid.Column="4">
+            <Label Content="颜色2：" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Column="4" Grid.Row="1">
+            <CheckBox x:Name="item_color2_customize" Content="自定义" HorizontalAlignment="Center" VerticalAlignment="Center" Height="20" Width="80" IsEnabled="False" Checked="item_color2_customize_Checked"/>
+        </Grid>
+        <Grid Grid.Column="4" Grid.Row="2">
+            <Button x:Name="item_switch" Content="交换颜色" HorizontalAlignment="Center" VerticalAlignment="Center" Height="20" Width="80" IsEnabled="False" Click="item_switch_Click" />
+        </Grid>
+        <Grid Grid.Column="4" Grid.Row="6">
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid>
+                <Label Content="渐变角度：" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Bottom"/>
+            </Grid>
+            <Grid Grid.Row="1">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="2*"/>
+                    <ColumnDefinition Width="1*"/>
+                </Grid.ColumnDefinitions>
+                <TextBox x:Name="item_angle" HorizontalAlignment="Center" TextWrapping="NoWrap" VerticalAlignment="Center" Width="60" Height="20" MaxLength="3" IsEnabled="False" TextChanged="item_angle_TextChanged"/>
+                <Label Content="deg" Grid.Column="1" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            </Grid>
+        </Grid>
+        <Grid Grid.Column="4" Grid.Row="7">
+            <Button x:Name="item_save" Content="生成图片" HorizontalAlignment="Center" VerticalAlignment="Center" Height="20" Width="100" IsEnabled="False" Click="item_save_Click"/>
+        </Grid>
+        <Grid Grid.Column="5">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="4*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="#" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="item_color2" Grid.Column="2" HorizontalAlignment="Left" TextWrapping="NoWrap" VerticalAlignment="Center" Width="85" Height="20" IsReadOnly="True" MaxLength="6" TextChanged="item_color2_TextChanged"/>
+        </Grid>
+        <Grid Grid.Column="5" Grid.Row="1">
+            <Button x:Name="item_color2_fill" Content="使用颜色" HorizontalAlignment="Center" VerticalAlignment="Center" Height="20" Width="100" IsEnabled="False" Click="item_color2_fill_Click"/>
+        </Grid>
+        <Grid Grid.Column="5" Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="R:" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="item_color2_r" Grid.Column="1" HorizontalAlignment="Center" TextWrapping="NoWrap" VerticalAlignment="Center" Width="70" Height="20" MaxLength="3" IsReadOnly="True" TextChanged="item_color2_r_TextChanged"/>
+        </Grid>
+        <Grid Grid.Column="5" Grid.Row="3">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="G:" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="item_color2_g" Grid.Column="1" HorizontalAlignment="Center" TextWrapping="NoWrap" VerticalAlignment="Center" Width="70" Height="20" MaxLength="3" IsReadOnly="True" TextChanged="item_color2_g_TextChanged"/>
+        </Grid>
+        <Grid Grid.Column="5" Grid.Row="4">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition Width="3*"/>
+            </Grid.ColumnDefinitions>
+            <Label Content="B:" HorizontalAlignment="Center" VerticalAlignment="Center" HorizontalContentAlignment="Center" VerticalContentAlignment="Center"/>
+            <TextBox x:Name="item_color2_b" Grid.Column="1" HorizontalAlignment="Center" TextWrapping="NoWrap" VerticalAlignment="Center" Width="70" Height="20" MaxLength="3" IsReadOnly="True" TextChanged="item_color2_b_TextChanged"/>
+        </Grid>
+        <Grid Grid.Column="5" Grid.Row="5">
+            <Button x:Name="item_color2_show" Content="单色预览" HorizontalAlignment="Center" VerticalAlignment="Center" Width="100" Height="20" IsEnabled="False" Click="item_color2_show_Click"/>
+        </Grid>
+        <Grid Grid.Column="5" Grid.Row="6">
+            <Rectangle x:Name="item_rect2" HorizontalAlignment="Center" VerticalAlignment="Center" Stroke="Black" Height="95" Width="95"/>
+        </Grid>
+        <Grid Grid.Column="5" Grid.Row="7">
+            <Button x:Name="item_show" Content="预览" HorizontalAlignment="Center" VerticalAlignment="Center" Height="20" Width="100" IsEnabled="False" Click="item_show_Click"/>
+        </Grid>
+    </Grid>
+</Window>
